@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Žiga Zaplotnik"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "PostDoc in Atmospheric Sciences at Faculty of Mathematics and Physics, University of Ljubljana"
+name                     : &name "Žiga Zaplotnik"
+description              : &description "PostDoc in Atmospheric Sciences"
 url                      : https://zaplotnik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zaplotnik.github.io"
@@ -81,16 +81,16 @@ analytics:
 # Site Author
 author:
   name             : "Žiga Zaplotnik"
-  avatar           : "profile.png"
-  bio              : "Researching how tracers can inferr dynamics in DA for NWP / Normal modes / Atmospheric Dynamics"
+  avatar           : "IMG_7246.JPG"
+  bio              : "PostDoc in Atmospheric Sciences"
   location         : "Ljubljana, Slovenia"
   employer         : 
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "ziga.zaplotnik@fmf.uni-lj.si"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Ziga_Zaplotnik"
   uri              :
-  bitbucket        :
+  bitbucket        : "https://bitbucket.org/ziga_zaplotnik/"
   codepen          :
   dribbble         :
   flickr           :
@@ -103,17 +103,17 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6012-0480"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/ZaplotnikZiga"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCazWMzQy0NRKjujqF9SyY1g"
   wikipedia        :
 
 
