@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-minimal_mistakes_skin    : "air"
+#minimal_mistakes_skin    : "air"
 locale                   : "en-US"
 title                    : "Žiga Zaplotnik"
 title_separator          : "-"
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "linkedin.com/in/žiga-zaplotnik-a05b64163"
+  linkedin         : "žiga-zaplotnik-a05b64163"
   orcid            : "https://orcid.org/0000-0002-6012-0480"
   pinterest        :
   soundcloud       :
