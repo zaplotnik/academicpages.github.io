@@ -8,7 +8,7 @@ E-mail: ziga [dot] zaplotnik [at] fmf.uni-lj.si
 
 Twitter: [@ZaplotnikZiga](https://twitter.com/ZaplotnikZiga)
 
-Normal modes software, which I use a lot lately:
+Normal modes software, which I use and co-develop:
 * [Normal modes software](https://modes.cen.uni-hamburg.de/)
 
 If you are interested in studying Atmospheric Physics at University of Ljubljana, Faculty of Mathematics and Physics, please take a look at:
