@@ -11,36 +11,47 @@ redirect_from:
 
 Education
 ======
+<i>2018-current</i>
+
+<b>Postdoc</b>, University of Ljubljana
+
+* Topic: studying the contribution of different circulation types to vertical velocity Omega and momemntum fluxes
+
+<i>May-Jun 2016</i>
+
+<b><Visiting researcher/b>, SMHI
+
+Advisor: dr. Nils Gustafsson
+
 <i>2014-2018</i>
+
 <b>Ph.D in Physics, Meteorology</b>, University of Ljubljana
-  * Supervisor: Prof. Nedjeljka Žagar
-  * Topic: Coupling of the aerosols, moisture and winds in 4D-Var data assimilation
+* Supervisor: Prof. Nedjeljka Žagar
+* Topic: Coupling of the aerosols, moisture and winds in 4D-Var data assimilation
 
 <i>2011-2014</i>
+
 <b>Master of Science in Computational Physics</b>, University of Ljubljana
-  * Supervisor: Prof. Simon Širca
-  * Thesis Topic: Independent Component Analysis in Physics
+* Supervisor: Prof. Simon Širca
+* Thesis Topic: Independent Component Analysis in Physics
 
 <i>2008-2011</i>
+
 <b>Bachelor of Science in Meteorology and Geophysics</b>, University of Ljubljana
 
-Work experience
+Other work experiences
 ======
-* 10/2018-present: Postdoctoral researcher
-  * University of Ljubljana, Faculty of Mathematics and Geophysics
-  * Upgrading MODES software (Žagar et al., GMD, 2015)
-  * Studying the contribution of different circulation types to vertical velocity Omega
+<i>01/2013-04/2014</i>
 
-*
+Analyst in Department of product development and portfolio analysis at Gen-I, d.o.o.
+* duties included: developed automated nonlinear regression numerical models for prediction of natural gas and electricity consumption, solar power forecasting etc.
 
-* 01/2013-04/2014: Analyst in Department of product development and portfolio analysis at Gen-I, d.o.o.
-  * duties includeddeveloped and coded automated nonlinear regression numerical models for prediction of natural gas and electricity consumption
-  * developed and coded automated numerical models for solar power forecasting
+<i>03/2011-05/2012</i>
 
-* 03/2011-05/2012: Collaborator on the research project
-  * Reducing the uncertainties of the input parameters for the calculation of earthquake hazard funded by GEN energija, d.o.o., a majority owner of Krško nuclear power plant.
-  * Worked in collaboration with Prof. Jurij Bajc and mag. Mladen Živčić.
-  * upgraded numerical model for determining the earthquake magnitude based on the multi-decade statistics of earthquake events in Slovenia
+Collaborator on the research project
+* Reducing the uncertainties of the input parameters for the calculation of earthquake hazard
+* Advisor: Prof. Jurij Bajc and mag. Mladen Živčić.
+* duties included: upgraded numerical model for determining the earthquake magnitude based on the multi-decade statistics of earthquake events in Slovenia
 
 
 
