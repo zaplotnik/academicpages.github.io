@@ -12,11 +12,11 @@ main:
   - title: "Press"
     url: /press/
 
-  - title: "Visualizations"
-    url: /year-archive/
-
   - title: "Impressions"
     url: /impressions/
+
+  - title: "Visualizations"
+    url: /visualizations/
 
   - title: "CV"
     url: /cv/

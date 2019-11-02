@@ -8,6 +8,8 @@ E-mail: ziga [dot] zaplotnik [at] fmf.uni-lj.si
 
 Twitter: [@ZaplotnikZiga](https://twitter.com/ZaplotnikZiga)
 
+Skype: zigazap
+
 Normal modes software, which I use and co-develop:
 * [Normal modes software](https://modes.cen.uni-hamburg.de/)
 
