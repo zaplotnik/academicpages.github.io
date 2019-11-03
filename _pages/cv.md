@@ -36,12 +36,12 @@ Other work experiences
 ======
 <i>2013-2014</i><br />
 Analyst in Department of product development and portfolio analysis at Gen-I, d.o.o.<br />
-<i>duties included:</i> developed automated nonlinear regression numerical models for prediction of natural gas and electricity consumption, solar power forecasting etc.
+<i>Duties included:</i> developed automated nonlinear regression numerical models for prediction of natural gas and electricity consumption, solar power forecasting etc.
 
 <i>2011-2012</i><br />
 Collaborator on the research project "Reducing the uncertainties of the input parameters for the calculation of earthquake hazard"<br />
 <i>Advisors</i>: Prof. Jurij Bajc and mag. Mladen Živčić<br />
-<i>duties included:</i> upgraded numerical model for determining the earthquake magnitude based on the multi-decade statistics of earthquake events in Slovenia
+<i>Duties included:</i> upgraded numerical model for determining the earthquake magnitude based on the multi-decade statistics of earthquake events in Slovenia
 
 
 
