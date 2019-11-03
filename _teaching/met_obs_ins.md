@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/met_obs_ins
 venue: "University of Ljubljana, Faculty of Mathematics and Physics"
-date: 2014-01-01
+#date: 2014-01-01
 #location: "City, Country"
 ---
 

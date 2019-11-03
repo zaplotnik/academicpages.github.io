@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/num_mod_atm
 venue: "University of Ljubljana, Faculty of Mathematics and Physics"
-date: 2018-01-01
+#date: 2018-01-01
 #location: "City, Country"
 ---
 

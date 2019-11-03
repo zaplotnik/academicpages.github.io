@@ -15,9 +15,6 @@ main:
   - title: "Impressions"
     url: /impressions/
 
-  - title: "Visualizations"
-    url: /visualizations/
-
   - title: "CV"
     url: /cv/
 

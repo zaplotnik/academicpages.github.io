@@ -182,9 +182,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  visualizations:
-    output: true
-    permalink: /:collection/:path/
   impressions:
     output: true
     permalink: /:collection/:path/
@@ -220,8 +217,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -235,15 +232,6 @@ defaults:
   - scope:
       path: ""
       type: impressions
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _visualizations
-  - scope:
-      path: ""
-      type: visualizations
     values:
       layout: single
       author_profile: true
