@@ -182,7 +182,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  visualizations:
+    output: true
+    permalink: /:collection/:path/
+  impressions:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -228,10 +231,28 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _impressions
   - scope:
       path: ""
-      type: portfolio
+      type: impressions
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _visualizations
+  - scope:
+      path: ""
+      type: visualizations
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _press
+  - scope:
+      path: ""
+      type: press
     values:
       layout: single
       author_profile: true
