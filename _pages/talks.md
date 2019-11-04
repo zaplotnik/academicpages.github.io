@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-<b><font color="#0000ff">In preparation</font></b>
+<b><font color="#0000ff" size=4>In preparation</font></b>
 
 <b>Zaplotnik, Ž.</b>, Boljka L., Črnivec N., and Slameršak A., 2019: Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za omilitev podnebnih sprememb. <i>Odprto pismo slovenski vladi</i>, 7 pp. (An open letter to the Slovenian government, urging them to improve the climate change mitigation policy).
 
