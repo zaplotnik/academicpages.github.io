@@ -12,4 +12,7 @@ In my research I am trying to figure out how to better use a plethora of tracer 
 
 Lately, I am working on the attribution of the vertical velocity to basic types of the atmospheric circulation: Rossby and inertia-gravity waves, using [normal modes decomposition software](https://modes.cen.uni-hamburg.de).
 
+![Image](images/omega_ROS_700_wind.png "")![Image](images/omega_IG_700_wind.png "icon")
+
+
 Within this scope, I am also interested in the response of the large-scale atmospheric dynamics to the warming climate.

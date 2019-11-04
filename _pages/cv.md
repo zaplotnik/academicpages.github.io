@@ -32,8 +32,26 @@ Education
 <i>2008-2011</i><br />
 <b>Bachelor of Science in Meteorology and Geophysics</b>, University of Ljubljana<br />
 
+Workshops
+======
+<i>August 28-September 2, 2016</i><br />
+Gran Sasso Science Institute, L’Aquila, Italy<br />
+International Summer School on Atmospheric and Oceanic Sciences: Advanced Programming Techniques for the Earth System Science
+
+<i>May 11-21, 2015 </i><br />
+ECMWF, Reading<br />
+NWP Parametrization of subgrid physical processes
+
+<i>March 16-20, 2015 </i><br />
+ECMWF, Reading<br />
+NWP Data Assimilation
+
 Other work experiences
 ======
+<i>2015-2018</i><br />
+Computer vision engineer (part time, non-profit) at Kardiobit (startup)<br />
+Developed [visual ID readers, brand-logo detectors, vehicle detection methods etc.](https://www.youtube.com/channel/UCazWMzQy0NRKjujqF9SyY1g)
+
 <i>2013-2014</i><br />
 Analyst in Department of product development and portfolio analysis at Gen-I, d.o.o.<br />
 <i>Duties included:</i> developed automated nonlinear regression numerical models for prediction of natural gas and electricity consumption, solar power forecasting etc.
