@@ -10,4 +10,5 @@ date: 2016-10-01
 
 The handbook for the course written by dr. Matic Šavli (now Meteo-France), dr. Katarina Kosovelj and me.
 
-<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/zaplotnik/zaplotnik.github.io/tree/master/files/vaje_sections.pdf" width="500" height="375">
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=http://zaplotnik.github.io/files/vaje_sections.pdf" width="500" height="375">
+http://academicpages.github.io/
