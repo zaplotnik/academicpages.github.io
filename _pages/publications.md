@@ -20,9 +20,11 @@ Karami K., Žagar N., <b>Zaplotnik Ž.</b>, 2019: Global Atmospheric Scale-depen
 
 <b>Zaplotnik Ž.</b>, Žagar N., 2019: Attribution of vertical velocity to Rossby modes, gravity modes and spatial scales.
 
+
 <b><font color="#0000ff">Submitted/In review</font></b>
 
 <b>Zaplotnik Ž.</b>, Žagar N., Benedetti A., Semane N., 2019: Inferring atmospheric dynamics from aerosol observation in 4D-Var. In review at <i>Quart. J. Roy. Meteor. Soc.</i>
+
 
 <b><font color="#0000ff">Inferring dynamics from tracers in 4D-Var</font></b>
 
@@ -32,15 +34,18 @@ Karami K., Žagar N., <b>Zaplotnik Ž.</b>, 2019: Global Atmospheric Scale-depen
 
 Žagar N. and <b>Zaplotnik Ž.</b>, 2018: Multivariate relationships between the aerosols, moisture and winds in four-dimensional data assimilation for the global monitoring for enviroment and security. Final report of ESA-PECS project. [Open](https://www.fmf.uni-lj.si/~zagarn/downloads/FinalReport_Contract_no_4000106730.pdf)
 
+
 <b><font color="#0000ff">Predictability</font></b>
 
 Žagar N., Horvat M., <b>Zaplotnik Ž.</b>, Magnusson L., 2017: Scale-dependent estimates of the growth of forecast uncertainties in a global prediction system. <i>Tellus A: Dynamic Meteorology and Oceanography</i> 69(1). [Open](https://www.tandfonline.com/doi/full/10.1080/16000870.2017.1287492)
+
 
 <b><font color="#0000ff">Others</font></b>
 
 Bajc, J., <b>Zaplotnik Ž.</b>, Živčič M., Čarman M. (2012) "Local magnitude scale in Slovenia" <i>Advances in Geosciences</i>. 34, 23-28. [Open](https://www.adv-geosci.net/34/23/2013/)
 
 <b>Zaplotnik Ž. L.</b>, 2014: Uporaba analize neodvisnih komponent v fizikalnih aplikacijah (Application of Independent Component Analysis in Physics) <i>Magistrska naloga (Master Thesis)</i>, University of Ljubljana, 63 pp. [Open](https://repozitorij.uni-lj.si/Dokument.php?id=106242&lang=slv)
+
 
 <b><font color="#0000ff">Reviews</font></b>
 
