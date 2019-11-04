@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: ""
+title: "Talks and conference presentations"
 permalink: /talks/
 author_profile: true
 ---
-
-Talks and conference presentations
-======
 
 <b>Zaplotnik, Ž.</b>, Žagar N.: MADDAM - Moist Atmosphere Dynamics Data Assimilation Model. Data Assimilation Workshop, Leeds, May 2019 [INVITED TALK]
 

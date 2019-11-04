@@ -182,7 +182,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  impressions:
+  posts:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -223,15 +223,6 @@ defaults:
   - scope:
       path: ""
       type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _impressions
-  - scope:
-      path: ""
-      type: impressions
     values:
       layout: single
       author_profile: true

@@ -4,17 +4,10 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/met_obs_ins
 venue: "University of Ljubljana, Faculty of Mathematics and Physics"
-#date: 2014-01-01
+date: 2016-10-01
 #location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-(2016-2018)
-Heading 1
-======
+The handbook for the course written by dr. Matic Šavli (now Meteo-France), dr. Katarina Kosovelj and me.
 
-Heading 2
-======
-
-Heading 3
-======
+<embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://github.com/zaplotnik/zaplotnik.github.io/tree/master/files/vaje_sections.pdf" width="500" height="375">
