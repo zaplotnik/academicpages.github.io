@@ -1,5 +1,5 @@
 ---
-title: '[SLO] Zakaj lahko napovemo klimo za dolgo vnaprej, če lahko vreme napovemo največ za nekaj dni?'
+title: '[SLO] Zakaj lahko napovemo klimo napovemo dlje vnaprej kot vreme?'
 date: 2019-11-04
 permalink: /posts/2019/01/blog-post-1/
 header:

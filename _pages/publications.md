@@ -15,8 +15,6 @@ author_profile: true
 In preparation
 ======
 
-<b>Zaplotnik, Ž.</b>, Boljka L., Črnivec N., and Slameršak A., 2019: Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za omilitev podnebnih sprememb. <i>Odprto pismo slovenski vladi</i>, 7 pp. (An open letter to the Slovenian government, urging them to improve the climate change mitigation policy).
-
 Karami K., Žagar N., <b>Zaplotnik Ž.</b>, 2019: Global Atmospheric Scale-dependent Subseasonal Variability and Trends: Intercomparison of Four Reanalyses.
 
 <b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2019: Flow-dependent wind extraction in 4D-Var.
@@ -44,6 +42,8 @@ Predictability
 
 Others
 ======
+
+[SLO] <b>Zaplotnik Ž.</b>, Boljka L., Črnivec N., and Slameršak A., 2019: <a href="https://nextcloud.fmf.uni-lj.si/s/4M4JaMeXM8dKWtr">Zahteva slovenskih raziskovalcev za sprejetje takojšnjih ukrepov za blaženje podnebnih sprememb in prilagajanje nanje.</a> <i>Odprto pismo slovenski vladi</i>, 13 pp. [podpisano s strani več kot 100 Slovenskih znanstvenikov]. (A request of Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy, an open letter to the Slovenian government [signed by over 100 Slovenian scientists; includes English summary]). Media coverage [SLO]: <a href="https://www.rtvslo.si/okolje/novice/znanstveniki-slovenija-ne-kaze-pripravljenosti-da-bi-se-na-podnebne-spremembe-odlocno-odzvala/504612">RTVSLO</a>, <a href="https://www.24ur.com/novice/slovenija/razocarani-slovenski-znanstveniki-politiki-se-ne-zavedajo-resnosti-problema.html">24ur</a>, <a href="http://znanost.sta.si/2696264/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb">STA</a>, <a href="https://www.dnevnik.si/1042913601/slovenija/slovenski-raziskovalci-pozivajo-k-odlocnemu-ukrepanju-za-blazenje-podnebnih-sprememb">Dnevnik</a>, <a href="https://www.mladina.si/194097/slovenski-znanstveniki-o-podnebnih-spremembah-nasa-moralna-in-eticna-dolznost-je-pozvati-k-ukrepanj/">Mladina</a>, <a href="https://www.vecer.com/znanstveniki-pozivajo-vlado-drzavni-zbor-in-drzavni-svet-ukrepajte-10089051">Večer</a>, <a href="https://oe.finance.si/8954794">Finance</a>, <a href="http://www.times.si/gospodarstvo/slovenski-raziskovalci-vlada-naj-vkljuci-podnebno-problematiko-v-obvezen-solski-program--8eab3057b4f399f34eedc14a0423913804034be6.html">Times.si</a>, <a href="http://meteorolog.si/index.php/2019/11/11/podnebne-spremembe-odprto-pismo/">Meteorolog.si</a>, <a href="https://www.delo.si/novice/okolje/slovenski-raziskovalci-pozivajo-politiko-sprejmite-bolj-ambiciozen-podnebni-nacrt-247970.html">Delo</a>, <a href="https://www.slovenskenovice.si/novice/slovenija/clanek/groznje-pahorju-in-sarcu-pred-slovenijo-katastrofalne-spremembe-247919">SlovenskeNovice</a>.
 
 Bajc, J., <b>Zaplotnik Ž.</b>, Živčič M., Čarman M. (2012) "Local magnitude scale in Slovenia" <i>Advances in Geosciences</i>. 34, 23-28. [Open](https://www.adv-geosci.net/34/23/2013/)
 
