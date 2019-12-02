@@ -45,17 +45,28 @@ NWP Data Assimilation
 
 Student/public presentations
 ======
-<i>November XX, 2019</i><br />
-Fizika podnebnih sprememb (Physics of climate change), Slovensko meteorološko društvo
+
+
+<i>February 8, 2020</i><br /> (incoming)
+[SLO] V vročici. TedxYouthGimnazijaKranj 2020
+
+<i>January 31, 2020</i><br /> (incoming)
+[SLO] Delavnica o fiziki podnebnih sprememb. Kulturni Maraton, Gimnazija Jurija Vege Idrija
+
+<i>December 19, 2019</i><br /> (incoming)
+[SLO] Fizika podnebnih sprememb. Gen-I, d.o.o
+
+<i>November 28, 2019</i><br />
+[SLO] [Fizika podnebnih sprememb (The physics of climate change)](http://zaplotnik.github.io/Fizika_podnebnih_sprememb_online_v2.pdf), Slovensko meteorološko društvo in ARSO
 
 <i>August 23, 2019</i><br />
-Poletna šola fizike: Fizika podnebnih sprememb (Physics summer school: Physics of climate change), FMF
+[SLO] Poletna šola fizike: Fizika podnebnih sprememb (Physics summer school: The physics of climate change), FMF
 
 <i>January 26-27, 2019</i><br />
-Mafijski vikend: Ozračje v kozarcu (Mathematics/Physics Weekend: Atmosphere in the glass), FMF
+[SLO] Mafijski vikend: Ozračje v kozarcu (Mathematics/Physics Weekend: The atmosphere inside the glass), FMF
 
 <i>December 20, 2017</i><br />
-Delavnica: Zakaj je višje hladneje? (Workshop: Why is it colder high above?), Dvojezična srednja šola Lendava
+[SLO] Delavnica: Zakaj je višje hladneje? (Workshop: Why is it colder high above?), Dvojezična srednja šola Lendava
 
 <i>December 15, 2017</i><br />
-Delavnica: Zakaj je višje hladneje? (Workshop: Why is it colder high above?), Šolski center Krško
+[SLO] Delavnica: Zakaj je višje hladneje? (Workshop: Why is it colder high above?), Šolski center Krško

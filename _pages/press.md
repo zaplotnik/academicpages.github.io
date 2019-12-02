@@ -12,7 +12,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Ona: "Zima bo. Toplejša od povprečja", 12. 11. 2019
+[Ona: "Zima bo. Toplejša od povprečja"](https://onaplus.delo.si/kaksno-vreme-nas-caka-zima-bo-toplejsa-od-povprecja), 12. 11. 2019
 
 [Intelekta: "Meteorološka znanost - med človekom in visoko tehnologijo"](https://radioprvi.rtvslo.si/2019/06/intelekta-157/), 18. 6. 2019
 
