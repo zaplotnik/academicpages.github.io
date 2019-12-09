@@ -12,6 +12,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+Revija Zarja:
+
 [Radio študent: "Kako bomo blažili podnebne spremembe?"](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe), 20. 11. 2019
 
 [Ona: "Zima bo. Toplejša od povprečja"](https://onaplus.delo.si/kaksno-vreme-nas-caka-zima-bo-toplejsa-od-povprecja), 12. 11. 2019

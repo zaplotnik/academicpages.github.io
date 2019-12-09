@@ -57,7 +57,7 @@ Student/public presentations
 [SLO] Fizika podnebnih sprememb. Gen-I, d.o.o
 
 <i>November 28, 2019</i><br />
-[SLO] [Fizika podnebnih sprememb](http://zaplotnik.github.io/files/fizika_podnebnih_sprememb_online_v2.pdf) (The physics of climate change), Slovensko meteorološko društvo in ARSO
+[SLO] [Fizika podnebnih sprememb](http://zaplotnik.github.io/files/fizika_podnebnih_sprememb_online_v2.pdf) (The physics of climate change), Slovensko meteorološko društvo in ARSO. [Video](https://www.youtube.com/watch?time_continue=3&v=4mvaCosEDos&feature=emb_logo)
 
 <i>August 23, 2019</i><br />
 [SLO] Poletna šola fizike: Fizika podnebnih sprememb (Physics summer school: The physics of climate change), FMF
