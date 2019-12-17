@@ -31,12 +31,14 @@ $$
 $$
 </div>
 
+<div>
 $$\begin{align*}
   \dot{x} &= \sigma(y - x) \\
   \dot{y} &= \rho x - y - xz \\
   \dot{z} &= -\beta z + xy
 \end{align*}$$
+</div>
 
-video width="320" height="240" controls>
+<video width="320" height="240" controls>
   <source type="video/mp4" src="https://robocop79.github.io/Websiteland//Twitter/FLT.mp4">
 </video>
