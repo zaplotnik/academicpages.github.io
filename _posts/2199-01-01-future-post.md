@@ -16,6 +16,10 @@ Display equation:
 
 $$\int e^{-kx} \, dx = -\frac{1}{k} e^{-kx}$$
 
+$$
+\frac{1}{\Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{\frac25 \pi}} \equiv 1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\frac{e^{-6\pi}} {1+\frac{e^{-8\pi}} {1+\cdots} } } }
+$$
+
 <div>
 $$
 \begin{align}
@@ -32,3 +36,7 @@ $$\begin{align*}
   \dot{y} &= \rho x - y - xz \\
   \dot{z} &= -\beta z + xy
 \end{align*}$$
+
+video width="320" height="240" controls>
+  <source type="video/mp4" src="https://robocop79.github.io/Websiteland//Twitter/FLT.mp4">
+</video>
