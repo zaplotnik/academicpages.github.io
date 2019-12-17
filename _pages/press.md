@@ -12,7 +12,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Revija Zarja:
+[Revija Zarja: "Smo v usodnem času za človeštvo"](https://revijazarja.si/clanek/zgodbe/5dee3441f3ac2/smo-v-usodnem-casu-za-clovestvo), 10. 12. 2019 [PDF](http://zaplotnik.github.io/files/12_14_Zarja_Jana_50.pdf)
 
 [Radio študent: "Kako bomo blažili podnebne spremembe?"](https://radiostudent.si/znanost/zr-intervju/kako-bomo-bla%C5%BEili-podnebne-spremembe), 20. 11. 2019
 
