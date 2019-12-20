@@ -23,4 +23,4 @@ V predavanju smo orisali:
   - meritve koncentracije oglijkovega dioksida v ledenih vrtinah
   - razmerje izotopov ogljika
 
-<iframe src="https://onedrive.live.com/embed?cid=20BFEDBA467FE51B&amp;resid=20BFEDBA467FE51B%21706&amp;authkey=AGrgEgSgxdoGUvU&amp;em=2&amp;wdAr=1.7777777777777777" width="1186px" height="691px" frameborder="0">To je vdelan dokument sistema <a target="_blank" href="https://office.com">Microsoft Office</a>, ki uporablja tehnologijo <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://onedrive.live.com/embed?resid=20BFEDBA467FE51B%21706&amp;authkey=%21AGrgEgSgxdoGUvU&amp;em=2&amp;wdAr=1.7777777777777777" width="962px" height="565px" frameborder="0">To je vdelan dokument sistema <a target="_blank" href="https://office.com">Microsoft Office</a>, ki uporablja tehnologijo <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>

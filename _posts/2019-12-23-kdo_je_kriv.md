@@ -10,7 +10,7 @@ tags:
   - category2
 ---
 
-Zanima nas, koliko emisij CO<sub>2</sub> je "zakrivil" povprečen 40-letni prebivalec Slovenije napram svojim vrstnikom po svetu. Pri tem napravimo nujno predpostavko, da ves čas svojega življenja živi tako ogljično intenzivno kot povprečen državljan. Podatki so na voljo na strani [Our World in Data](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions)
+Zanima nas, koliko emisij CO<sub>2</sub> je "zakrivil" povprečen 40-letni prebivalec Slovenije napram svojim vrstnikom po svetu. Pri tem napravimo nujno predpostavko, da ves čas svojega življenja živi tako ogljično intenzivno kot povprečen državljan. Podatki so na voljo na strani [Our World in Data](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions).
 
 ![Kumulativne emisije CO2](/images/emissions.png)
 
