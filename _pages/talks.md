@@ -53,7 +53,7 @@ Student/public presentations
 <i>January 31, 2020</i><br /> (incoming)
 [SLO] Delavnica o fiziki podnebnih sprememb. Kulturni Maraton, Gimnazija Jurija Vege Idrija
 
-<i>December 19, 2019</i><br /> (incoming)
+<i>December 19, 2019</i><br />
 [SLO] Fizika podnebnih sprememb. Gen-I, d.o.o
 
 <i>November 28, 2019</i><br />
