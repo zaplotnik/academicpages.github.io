@@ -1,13 +1,13 @@
 ---
 title: '[SLO] Zakaj lahko napovemo stanje podnebja dlje vnaprej kot vreme?'
-date: 2019-12-17
+date: 2019-12-27
 permalink: /posts/2019/12/blog-post-1/
 header:
   teaser: lorenz_divergence.jpeg
 tags:
-  - cool posts
-  - category1
-  - category2
+  - napoved vremena
+  - napoved podnebja
+  - podnebne spremembe
 ---
 
 Some inline Latex: $$a^2 + b^2 = c^2$$
