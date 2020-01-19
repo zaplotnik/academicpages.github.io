@@ -12,7 +12,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-[EPPUR SI MUOVE - IN VENDAR SE VRTI: ZELENI JANUAR: PODNEBNE SPREMEMBE, VZROKI IN POSLEDICE](https://4d.rtvslo.si/arhiv/eppur-si-muove-in-vendar-se-vrti/174662873)
+[Eppur is mouve - In vendar se vrti: Zeleni januar: podnebne spremembe, vzroki in posledice](https://4d.rtvslo.si/arhiv/eppur-si-muove-in-vendar-se-vrti/174662873), 6. 1. 2020
 
 [Revija Zarja: "Smo v usodnem času za človeštvo"](https://revijazarja.si/clanek/zgodbe/5dee3441f3ac2/smo-v-usodnem-casu-za-clovestvo), 10. 12. 2019 [PDF](http://zaplotnik.github.io/files/12_14_Zarja_Jana_50.pdf)
 
