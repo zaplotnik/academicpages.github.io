@@ -16,7 +16,8 @@ Normal modes software, which I use and co-develop:
 If you are interested in studying Atmospheric Physics at University of Ljubljana, Faculty of Mathematics and Physics, please take a look at:
 * [Faculty of Mathematics and Physics](https://www.fmf.uni-lj.si/en/)
 * [Katedra za meteorologijo](https://meteo.fmf.uni-lj.si/)
-* [Meteorolog.si](http://meteorolog.si/) ![meteorolog.si](logo_napis_CD_v05_500x.png)
+* [Meteorolog.si](http://meteorolog.si/)
+![meteorolog.si](/images/logo_napis_CD_v05_500x.png)
 
 
 Slovenian Official Meteorology:
