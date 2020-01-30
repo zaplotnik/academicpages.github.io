@@ -12,7 +12,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+[Na ramenih velikana: okrogla miza](https://www.idrija.com/scopoli-na-kulturnem-maratonu), 31. 1. 2020
+
 [Eppur is mouve - In vendar se vrti: Zeleni januar: podnebne spremembe, vzroki in posledice](https://4d.rtvslo.si/arhiv/eppur-si-muove-in-vendar-se-vrti/174662873), 6. 1. 2020
+
+[ARSO Podcast: "Podnebne spremembe - ukrepajmo zdaj"](http://meteo.arso.gov.si/uploads/probase/www/fproduct/media/sl/podcast/podcast_20191204_ep027.mp3), december 2020
 
 [Revija Zarja: "Smo v usodnem času za človeštvo"](https://revijazarja.si/clanek/zgodbe/5dee3441f3ac2/smo-v-usodnem-casu-za-clovestvo), 10. 12. 2019 [PDF](http://zaplotnik.github.io/files/12_14_Zarja_Jana_50.pdf)
 

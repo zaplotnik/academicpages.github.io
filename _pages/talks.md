@@ -48,9 +48,9 @@ Student/public presentations
 
 
 <i>February 8, 2020</i><br /> (incoming)
-[SLO] V vročici. TedxYouthGimnazijaKranj 2020
+[SLO] Podnebne spremembe za (ne)fizike. TedxYouthGimnazijaKranj 2020
 
-<i>January 31, 2020</i><br /> (incoming)
+<i>January 31, 2020</i><br />
 [SLO] Delavnica o fiziki podnebnih sprememb. Kulturni Maraton, Gimnazija Jurija Vege Idrija
 
 <i>December 19, 2019</i><br />
@@ -58,6 +58,9 @@ Student/public presentations
 
 <i>November 28, 2019</i><br />
 [SLO] [Fizika podnebnih sprememb](http://zaplotnik.github.io/files/fizika_podnebnih_sprememb_online_v2.pdf) (The physics of climate change), Slovensko meteorološko društvo in ARSO. [Video](https://www.youtube.com/watch?time_continue=3&v=4mvaCosEDos&feature=emb_logo)
+
+<i>November 19, 2019</i><br />
+[SLO] [Družbena odgovornost znanosti za Planet A, panelna razprava](http://znanost.sta.si/2699198/dan-arrs-sticisce-razlicnih-generacij-raziskovalcev)
 
 <i>August 23, 2019</i><br />
 [SLO] Poletna šola fizike: Fizika podnebnih sprememb (Physics summer school: The physics of climate change), FMF
