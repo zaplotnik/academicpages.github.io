@@ -12,7 +12,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-[Na ramenih velikana: okrogla miza](https://www.idrija.com/scopoli-na-kulturnem-maratonu), 31. 1. 2020
+GEA: Podnebne spremembe ne poznajo meja [PDF](http://zaplotnik.github.io/files/02 feb 2020 06-13.pdf)
+
+[VIII. Kulturni maraton na Gimnaziji Jurija Vege Idrija. Okrogla miza "Na ramenih velikana"](https://www.idrija.com/scopoli-na-kulturnem-maratonu), 31. 1. 2020 [Delo](https://www.delo.si/kultura/razno/scopoli-kot-navdih-in-ne-historicna-obveza-274591.html)
 
 [Eppur is mouve - In vendar se vrti: Zeleni januar: podnebne spremembe, vzroki in posledice](https://4d.rtvslo.si/arhiv/eppur-si-muove-in-vendar-se-vrti/174662873), 6. 1. 2020
 
