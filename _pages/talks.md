@@ -47,8 +47,8 @@ Student/public presentations
 ======
 
 
-<i>February 8, 2020</i><br /> (incoming)
-[SLO] Podnebne spremembe za (ne)fizike. TedxYouthGimnazijaKranj 2020
+<i>February 8, 2020</i><br />
+[SLO] Podnebne spremembe za (ne)fizike. [TedxYouthGimnazijaKranj 2020](http://zaplotnik.github.io/images/tedx.jpg) [TRANSCRIPT](http://zaplotnik.github.io/files/tedx_transcript.pdf)
 
 <i>January 31, 2020</i><br />
 [SLO] Delavnica o fiziki podnebnih sprememb. Kulturni Maraton, Gimnazija Jurija Vege Idrija
