@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+<b>Zaplotnik Ž.</b>, Gavric A., Medic L., Jakulin A.: 4. srečanje Mlade sekcije Statističnega društva Slovenije: Modeliranje in statistični vidiki COVID-19 v Sloveniji [INVITED TALK, SLO] Inštitut za biostatistiko in medicinsko informatiko (IBMI) Medicinske fakultete Univerze v Ljubljani, April 21 2020. [PPT](http://nextcloud.fmf.uni-lj.si/s/wgSbB3jFMttswBW) [VIDEO](https://www.youtube.com/watch?v=ZzIbNxvGdo8&feature=youtu.be&t=1526)
+
 <b>Zaplotnik, Ž.</b>, Žagar N.: MADDAM - Moist Atmosphere Dynamics Data Assimilation Model. Data Assimilation Workshop, Leeds, May 2019 [INVITED TALK]
 
 <b>Zaplotnik, Ž.</b>, Žagar N.: Luščenje vetra iz aerosolov in vlage v 4D-Var asimilaciji. Slovensko združenje za geodezijo in geofiziko (Slovenian Society for Geodesy and Geophysics), Ljubljana, January 2019 [TALK]
@@ -48,7 +50,7 @@ Student/public presentations
 
 
 <i>February 8, 2020</i><br />
-[SLO] Podnebne spremembe za (ne)fizike. [TedxYouthGimnazijaKranj 2020](http://zaplotnik.github.io/images/tedx.jpg) [TRANSCRIPT](http://zaplotnik.github.io/files/tedx_transcript.pdf)
+[SLO] Podnebne spremembe za (ne)fizike. [TedxYouthGimnazijaKranj 2020](http://zaplotnik.github.io/images/tedx.jpg) [TRANSCRIPT](http://zaplotnik.github.io/files/tedx_transcript.pdf) [VIDEO](https://www.youtube.com/watch?v=AOkVCgA7rUA)
 
 <i>January 31, 2020</i><br />
 [SLO] Delavnica o fiziki podnebnih sprememb. Kulturni Maraton, Gimnazija Jurija Vege Idrija

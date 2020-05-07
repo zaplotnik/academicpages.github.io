@@ -15,23 +15,26 @@ author_profile: true
 In preparation
 ======
 
-Žagar N., <b>Zaplotnik Ž.</b>, Karami K., 2019: Global Atmospheric Scale-dependent Subseasonal Variability and Trends: Intercomparison of Four Reanalyses.
+<b>Zaplotnik Ž.</b>, Gavric A., Medic L., 2020: Simulation of the COVID-19 pandemic on the social network
+of Slovenia: estimating the intrinsic forecast uncertainty
 
-<b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2019: Flow-dependent wind extraction in 4D-Var.
+<b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2020: Flow-dependent wind extraction in 4D-Var.
 
-<b>Zaplotnik Ž.</b>, Žagar N., 2019: Attribution of vertical velocity to Rossby modes, gravity modes and spatial scales.
+<b>Zaplotnik Ž.</b>, Žagar N., 2020: Attribution of vertical velocity to Rossby modes, gravity modes and spatial scales.
 
-Horvat M., <b>Zaplotnik Ž.</b>, Žagar N., 2019: Universality of the Lorenz error growth function?
+Horvat M., <b>Zaplotnik Ž.</b>, Žagar N., 2020: Universality of the Lorenz error growth function?
 
 
 Submitted/In Review
 ======
 
+Žagar N., <b>Zaplotnik Ž.</b>, Karami K., 2020: Atmospheric Variability and Circulation Regimes: Spectra, Trends and Uncertainties. Submitted to Journal of Climate.
+
 
 Inferring dynamics from tracers in 4D-Var
 ======
 
-<b>Zaplotnik Ž.</b>, Žagar N., Benedetti A., Semane N., 2020: Inferring atmospheric dynamics from aerosol observation in 4D-Var. Accepted in <i>Quart. J. Roy. Meteor. Soc.</i>
+<b>Zaplotnik Ž.</b>, Žagar N., Benedetti A., Semane N., 2020: Inferring atmospheric dynamics from aerosol observation in 4D-Var. <i>Quart. J. Roy. Meteor. Soc.</i> 146(728), 4. [Open](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.3743)
 
 <b>Zaplotnik Ž.</b>, Žagar N., Gustafsson N., 2018: An intermediate-complexity model for four-dimensional variational data assimilation including moist processes. <i>Quart. J. Roy. Meteor. Soc.</i> 144(715), 1772-1787. [Open](https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.3338)  [Free](https://repozitorij.uni-lj.si/Dokument.php?id=116382&lang=slv)
 
