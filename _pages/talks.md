@@ -48,6 +48,8 @@ NWP Data Assimilation
 Student/public presentations
 ======
 
+<i>March 24, 2020 (postponed)</i><br />
+[SLO] [Podnebne spremembe in slovenska energetika.](http://www.sazu.si/events/5e625989e9bdb326a898b775) Slovenska akademija znanosti in umetnosti
 
 <i>February 8, 2020</i><br />
 [SLO] Podnebne spremembe za (ne)fizike. [TedxYouthGimnazijaKranj 2020](http://zaplotnik.github.io/images/tedx.jpg) [TRANSCRIPT](http://zaplotnik.github.io/files/tedx_transcript.pdf) [VIDEO](https://www.youtube.com/watch?v=AOkVCgA7rUA)
