@@ -15,9 +15,6 @@ author_profile: true
 In preparation
 ======
 
-<b>Zaplotnik Ž.</b>, Gavric A., Medic L., 2020: Simulation of the COVID-19 pandemic on the social network
-of Slovenia: estimating the intrinsic forecast uncertainty
-
 <b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2020: Flow-dependent wind extraction in 4D-Var.
 
 <b>Zaplotnik Ž.</b>, Žagar N., 2020: Attribution of vertical velocity to Rossby modes, gravity modes and spatial scales.
@@ -30,6 +27,8 @@ Submitted/In Review
 
 Žagar N., <b>Zaplotnik Ž.</b>, Karami K., 2020: Atmospheric Variability and Circulation Regimes: Spectra, Trends and Uncertainties. Submitted to Journal of Climate.
 
+<b>Zaplotnik Ž.</b>, Gavric A., Medic L., 2020: Simulation of the COVID-19 pandemic on the social network
+of Slovenia: estimating the intrinsic forecast uncertainty. Submitted to Plos ONE.
 
 Inferring dynamics from tracers in 4D-Var
 ======
