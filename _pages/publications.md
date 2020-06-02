@@ -15,7 +15,10 @@ author_profile: true
 In preparation
 ======
 
-<b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2020: Flow-dependent wind extraction in 4D-Var.
+<b>Zaplotnik Ž.</b>, Žagar N., 2020: Flow-dependent wind extraction in 4D-Var.
+
+<b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2020: Basic properties of the 4D-Var wind extraction in the presence of model
+error/bias.
 
 <b>Zaplotnik Ž.</b>, Žagar N., 2020: Attribution of vertical velocity to Rossby modes, gravity modes and spatial scales.
 
@@ -28,7 +31,7 @@ Submitted/In Review
 Žagar N., <b>Zaplotnik Ž.</b>, Karami K., 2020: Atmospheric Variability and Circulation Regimes: Spectra, Trends and Uncertainties. Submitted to Journal of Climate.
 
 <b>Zaplotnik Ž.</b>, Gavric A., Medic L., 2020: Simulation of the COVID-19 pandemic on the social network
-of Slovenia: estimating the intrinsic forecast uncertainty. Submitted to Plos ONE.
+of Slovenia: estimating the intrinsic forecast uncertainty. Submitted to Plos ONE. [arxiv](https://arxiv.org/abs/2005.13282)
 
 Inferring dynamics from tracers in 4D-Var
 ======
@@ -64,7 +67,7 @@ Bajc, J., <b>Zaplotnik Ž.</b>, Živčič M., Čarman M., 2012: "Local magnitude
 
 Bajc, J., <b>Zaplotnik Ž.</b>, Živčič M., Čarman M., 2012: "Izračun lokalnih magnitud potresov iz podatkov Državne mreže potresnih opazovalnic" SZGG [Open](http://fgg-web.fgg.uni-lj.si/SUGG/referati/2012/SZGG_2012_Bajc_in_drugi.pdf)
 
-<b>Zaplotnik Ž. L.</b>, 2014: Uporaba analize neodvisnih komponent v fizikalnih aplikacijah (Application of Independent Component Analysis in Physics) <i>Magistrska naloga (Master Thesis)</i>, University of Ljubljana, 63 pp. [Open](https://repozitorij.uni-lj.si/Dokument.php?id=106242&lang=slv)
+<b>Zaplotnik Ž.</b>, 2014: Uporaba analize neodvisnih komponent v fizikalnih aplikacijah (Application of Independent Component Analysis in Physics) <i>Magistrska naloga (Master Thesis)</i>, University of Ljubljana, 63 pp. [Open](https://repozitorij.uni-lj.si/Dokument.php?id=106242&lang=slv)
 
 Reviews
 ======
