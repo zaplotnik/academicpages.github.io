@@ -57,6 +57,7 @@ Skills
 
 Awards
 ======
+* Outreach Award 2020 for [RESCCCUE](https://www.emetsoc.org/oc2020-for-rescccue-slovenia/) (REminding Slovenian authorities Climate Change Crisis requires Urgent Effort), together with dr. Lina Boljka, Nina Črnivec and Aljoša Slameršak
 * Zois Scholarship, intended for distinctly talented pupils and students (2004-2014)
 * Golden Matura award (2008)
 * Dean's Award for academic achievement (2009, 2010, 2011)
