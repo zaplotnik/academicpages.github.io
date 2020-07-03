@@ -8,7 +8,8 @@ date: 2020-07-03
 #location: "City, Country"
 ---
 
-# Mladi raziskovalec (redna zaposlitev)
+Mladi raziskovalec (redna zaposlitev)
+
 Na Katedri za meteorologijo na FMF načrtujemo letos zaposliti mladega raziskovalca oz. raziskovalko na temo razvoja uporabe metod strojnega učenja v meteorologiji.
 
 Čeprav tema sodi na področje meteorologije, je primeren tudi kandidat s kakšnega drugega naravoslovnega področja, na primer fizike ali matematike (kandidat bo potrebna meteorološka znanja pridobil tekom študija na 3. stopnji).

@@ -8,7 +8,8 @@ date: 2020-07-03
 #location: "City, Country"
 ---
 
-# Machine learning in meteorology
+Machine learning in meteorology
+
 The Meteorology group at the Faculty of Mathematics and Physics, University of Ljubljana, Slovenia, is looking for an eligible candidate to fill a PhD student position on the topic of machine learning in meteorology. The work would be done under the supervision of asst. prof. Gregor Skok and dr. Žiga Zaplotnik. The position is available from 1 October 2020 for a duration of four years. The candidate must fulfill some formal requirements for the position. These include finished bachelor and master’s degrees, high enough grades during the undergraduate and graduate studies (at least 70% or 8/10 on [Slovenia's grading system](https://www.uni-lj.si/study/information/grading-system/)) and age under 28 years (junior researcher).
 
 A candidate must also demonstrate sufficient programming skills (preferably Python, however experience with Fortran/C++ would be an advantage), knowledge of data analysis, mathematical modeling and must have a good background in physics and mathematics. A candidate must be able to work effectively in English. Specific knowledge of machine-learning tools such as TensorFlow would be an advantage but is not essential.
@@ -23,9 +24,8 @@ The results could potentially be useful for improving long-term weather forecast
 Although the topic is meteorological, a candidate from a different natural science field is also suitable.
 
 ## Surroundings
-Meteorology group: http://meteo.fmf.uni-lj.si/en/node
-Faculty of Mathematics and Physics: https://www.fmf.uni-lj.si/en/
-University of Ljubljana: https://www.uni-lj.si/eng/
-
-Ljubljana: https://en.wikipedia.org/wiki/Ljubljana
-Slovenia: https://www.slovenia.info/en
+[Meteorology group](http://meteo.fmf.uni-lj.si/en/node)  
+[Faculty of Mathematics and Physics](https://www.fmf.uni-lj.si/en/)  
+[University of Ljubljana](https://www.uni-lj.si/eng/)  
+[Ljubljana](https://en.wikipedia.org/wiki/Ljubljana)  
+[Slovenia](https://www.slovenia.info/en)  
