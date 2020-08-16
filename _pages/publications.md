@@ -24,14 +24,18 @@ error/bias.
 
 Horvat M., <b>Zaplotnik Ž.</b>, Žagar N., 2020: Universality of the Lorenz error growth function?
 
+Pikovnik M., <b>Zaplotnik Ž.</b>, Boljka L., 2020: Are the Hadley cell intensity trends an artefact of the global reanalyses?
 
 Submitted/In Review
 ======
 
-Žagar N., <b>Zaplotnik Ž.</b>, Karami K., 2020: Atmospheric Variability and Circulation Regimes: Spectra, Trends and Uncertainties. Submitted to Journal of Climate.
+Accepted
+======
+
+Žagar N., <b>Zaplotnik Ž.</b>, Karami K., 2020: Atmospheric Subseasonal Variability and Circulation Regimes: Spectra, Trends and Uncertainties. Accepted in Journal of Climate.
 
 <b>Zaplotnik Ž.</b>, Gavric A., Medic L., 2020: Simulation of the COVID-19 pandemic on the social network
-of Slovenia: estimating the intrinsic forecast uncertainty. Submitted to Plos ONE. [arxiv](https://arxiv.org/abs/2005.13282)
+of Slovenia: estimating the intrinsic forecast uncertainty. Accepted in Plos ONE. doi: 10.1371/journal.pone.0238090 [arxiv](https://arxiv.org/abs/2005.13282)
 
 Inferring dynamics from tracers in 4D-Var
 ======

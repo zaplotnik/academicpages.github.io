@@ -2,7 +2,7 @@
 title: "PhDs [ENG]"
 collection: teaching
 type: "Postgraduate course"
-permalink: /teaching/phds
+permalink: /teaching/phds_eng
 venue: "University of Ljubljana, Faculty of Mathematics and Physics"
 date: 2020-07-03
 #location: "City, Country"
