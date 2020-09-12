@@ -24,7 +24,7 @@ error/bias.
 
 Horvat M., <b>Zaplotnik Ž.</b>, Žagar N., 2020: Universality of the Lorenz error growth function?
 
-Pikovnik M., <b>Zaplotnik Ž.</b>, Boljka L., 2020: Are the Hadley cell intensity trends an artefact of the global reanalyses?
+<b>Zaplotnik Ž.</b>, Pikovnik M., Boljka L., Žagar N., 2020: Hadley circulation intensity trends in the global reanalyses - are they an artefact?
 
 Submitted/In Review
 ======
@@ -34,8 +34,11 @@ Accepted
 
 Žagar N., <b>Zaplotnik Ž.</b>, Karami K., 2020: Atmospheric Subseasonal Variability and Circulation Regimes: Spectra, Trends and Uncertainties. Accepted in Journal of Climate.
 
+Computational epidemiology
+======
+
 <b>Zaplotnik Ž.</b>, Gavric A., Medic L., 2020: Simulation of the COVID-19 pandemic on the social network
-of Slovenia: estimating the intrinsic forecast uncertainty. Accepted in Plos ONE. doi: 10.1371/journal.pone.0238090 [arxiv](https://arxiv.org/abs/2005.13282)
+of Slovenia: estimating the intrinsic forecast uncertainty. Plos ONE. doi: 10.1371/journal.pone.0238090 [arxiv](https://arxiv.org/abs/2005.13282)
 
 Inferring dynamics from tracers in 4D-Var
 ======
@@ -55,6 +58,9 @@ Predictability
 
 Others
 ======
+
+Maja Poklinek Čančula, Miha Čančula, Simon Čopar, Ivan Kukuljan, Matjaž Leskovar, <b>Žiga Zaplotnik</b>. [Zakaj je pomembno, da sprejmemo vabilo k sodelovanju v študiji o razširjenosti koronavirusa?](https://www.rtvslo.si/kolumne/zakaj-je-pomembno-da-sprejmemo-vabilo-k-sodelovanju-v-studiji-o-razsirjenosti-koronavirusa/521435) MMC RTV SLO : prvi multimedijski portal. 22. 4. 2020.
+
 Lina Boljka, Marija Zlata Božnar, Mirko Brnič Jager, Božidar Brudar, Andrej Čas, Nina Črnivec,
 Marko Debeljak, Matjaž Gams, Peter Glavič, Lidija Globevnik, Boštjan Grašič, Ferdinand Gubina,
 Andreja Hace, Tone Horvat, Matevž Jeran, Lilijana Kozlovič, Aleš Krainer, Karel Lipič, Franc

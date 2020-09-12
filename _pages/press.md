@@ -12,9 +12,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Val 202: [Upam, da nas bo epidemija streznila, saj smo vsi del narave](https://val202.rtvslo.si/2020/06/predstavitev-kandidatov-107/)
 
-GEA: Podnebne spremembe ne poznajo meja, februar 2020 [PDF](http://zaplotnik.github.io/files/02 feb 2020 06-13.pdf)
+[Dnevnik: Včerajšnji rezultati testov niso neposredno primerljivi z jutrišnjimi številkami](https://www.dnevnik.si/1042938517/slovenija/vcerajsnji-rezultati-testov-niso-neposredno-primerljivi-z-jutrisnjimi-stevilkami), 11. 9. 2020
+
+[Val 202: Upam, da nas bo epidemija streznila, saj smo vsi del narave](https://val202.rtvslo.si/2020/06/predstavitev-kandidatov-107/)
+
+[GEA: Podnebne spremembe ne poznajo meja](https://repozitorij.uni-lj.si/Dokument.php?id=127208&lang=slv), februar 2020 [PDF](http://zaplotnik.github.io/files/02 feb 2020 06-13.pdf)
 
 [VIII. Kulturni maraton na Gimnaziji Jurija Vege Idrija. Okrogla miza "Na ramenih velikana"](https://www.idrija.com/scopoli-na-kulturnem-maratonu), 31. 1. 2020 [Delo](https://www.delo.si/kultura/razno/scopoli-kot-navdih-in-ne-historicna-obveza-274591.html)
 
