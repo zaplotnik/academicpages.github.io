@@ -12,7 +12,7 @@ author_profile: true
 ---
 
 
-###In preparation
+In preparation
 ======
 
 <b>Zaplotnik Ž.</b>, Žagar N., 2020: Flow-dependent wind extraction in weak-constraint 4D-Var.
@@ -26,21 +26,21 @@ Horvat M., <b>Zaplotnik Ž.</b>, Žagar N., 2020: Universality of the Lorenz err
 
 <b>Zaplotnik Ž.</b>, Pikovnik M., Boljka L., Žagar N., 2020: Hadley circulation intensity trends in the global reanalyses - are they an artefact?
 
-###Submitted/In Review
+Submitted/In Review
 ======
 
-###Atmospheric dynamics
+Atmospheric dynamics
 ======
 
 Žagar N., <b>Zaplotnik Ž.</b>, Karami K., 2020: Atmospheric Subseasonal Variability and Circulation Regimes: Spectra, Trends and Uncertainties. <i>Journal of Climate</i> 33(21), 9375-9390. [Link](https://journals.ametsoc.org/jcli/article-abstract/33/21/9375/354223/Atmospheric-Subseasonal-Variability-and?redirectedFrom=fulltext)
 
-###Computational epidemiology
+Computational epidemiology
 ======
 
 <b>Zaplotnik Ž.</b>, Gavric A., Medic L., 2020: Simulation of the COVID-19 pandemic on the social network
 of Slovenia: estimating the intrinsic forecast uncertainty. PLoS ONE 15(8): e0238090 [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238090) [arxiv](https://arxiv.org/abs/2005.13282)
 
-###Inferring dynamics from tracers in 4D-Var
+Inferring dynamics from tracers in 4D-Var
 ======
 
 <b>Zaplotnik Ž.</b>, Žagar N., Benedetti A., Semane N., 2020: Inferring atmospheric dynamics from aerosol observation in 4D-Var. <i>Quart. J. Roy. Meteor. Soc.</i> 146(728), 4. [Link](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.3743)
@@ -51,12 +51,12 @@ of Slovenia: estimating the intrinsic forecast uncertainty. PLoS ONE 15(8): e023
 
 Žagar N. and <b>Zaplotnik Ž.</b>, 2018: Multivariate relationships between the aerosols, moisture and winds in four-dimensional data assimilation for the global monitoring for enviroment and security. Final report of ESA-PECS project. [Open](https://www.fmf.uni-lj.si/~zagarn/downloads/FinalReport_Contract_no_4000106730.pdf)
 
-###Atmospheric predictability
+Atmospheric predictability
 ======
 
 Žagar N., Horvat M., <b>Zaplotnik Ž.</b>, Magnusson L., 2017: Scale-dependent estimates of the growth of forecast uncertainties in a global prediction system. <i>Tellus A: Dynamic Meteorology and Oceanography</i> 69(1). [Open](https://www.tandfonline.com/doi/full/10.1080/16000870.2017.1287492)
 
-###Other
+Other
 ======
 
 Boljka, L., <b>Ž. Zaplotnik</b>, A. Slameršak, N. Črnivec, 2020: [Comments and suggestions on the draft of the Slovenian long-term climate change strategy](https://drive.google.com/file/d/1psP-qqJbKs0fBEgqDec83A-N8_pgAHTK/view). A letter to the Ministry for the Environment, 2 pp. Media: [OE Finance](https://oe.finance.si/8966414/(prejeli-smo)-Predlog-raziskovalcev-za-spremembe-osnutka-podnebne-strategije?cctest&), [Meteorolog.si](http://meteorolog.si/index.php/2020/10/01/opozorilo-na-premajhno-ambicioznost-osnutka-dolgorocne-podnebne-strategije-slovenije/), [Globus](https://4d.rtvslo.si/arhiv/globus/174722022).
@@ -83,7 +83,7 @@ Bajc, J., <b>Zaplotnik Ž.</b>, Živčič M., Čarman M., 2012: "Izračun lokaln
 
 <b>Zaplotnik Ž.</b>, 2014: Uporaba analize neodvisnih komponent v fizikalnih aplikacijah (Application of Independent Component Analysis in Physics) <i>Magistrska naloga (Master Thesis)</i>, University of Ljubljana, 63 pp. [Open](https://repozitorij.uni-lj.si/Dokument.php?id=106242&lang=slv)
 
-###Reviews
+Reviews
 ======
 
 [Publons](https://publons.com/researcher/3135134/ziga-zaplotnik/)
