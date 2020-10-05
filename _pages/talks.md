@@ -49,7 +49,7 @@ Student/public presentations
 ======
 
 <i>September 22, 2020</i><br />
-[SLO] Fizika podnebnih sprememb. Srečnje srednješolskih profesorjev fizike. Webinar.
+[SLO] Fizika podnebnih sprememb. Srečnje srednješolskih profesorjev fizike. ZRSŠ
 
 <i>March 24, 2020 (postponed)</i><br />
 [SLO] [Podnebne spremembe in slovenska energetika.](http://www.sazu.si/events/5e625989e9bdb326a898b775) Slovenska akademija znanosti in umetnosti
