@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+<b>Zaplotnik Ž.</b> Simulation of the COVID-19 epidemic on the simplified social network of Slovenia [INVITED TALK] , Artificial Intelligence Laboratory
+Jožef Stefan Institute, November 11 2020.
+
 <b>Zaplotnik Ž.</b>, Gavric A., Medic L., Jakulin A.: 4. srečanje Mlade sekcije Statističnega društva Slovenije: Modeliranje in statistični vidiki COVID-19 v Sloveniji [INVITED TALK, SLO] Inštitut za biostatistiko in medicinsko informatiko (IBMI) Medicinske fakultete Univerze v Ljubljani, April 21 2020. [PPT](http://nextcloud.fmf.uni-lj.si/s/wgSbB3jFMttswBW) [VIDEO](https://www.youtube.com/watch?v=ZzIbNxvGdo8&feature=youtu.be&t=1526)
 
 <b>Zaplotnik, Ž.</b>, Žagar N.: MADDAM - Moist Atmosphere Dynamics Data Assimilation Model. Data Assimilation Workshop, Leeds, May 2019 [INVITED TALK] [Slides](http://www1.maths.leeds.ac.uk/~amttk/files/workshop/zaplotnik_maddam.pdf)
@@ -48,8 +51,11 @@ NWP Data Assimilation
 Student/public presentations
 ======
 
+<i>November 12, 2020</i><br />
+[SLO] Kako nam lahko epidemiološki modeli pomagajo pri odločanju? [COVID-19 Sledilnik Slovenija](https://www.youtube.com/watch?v=5Zz41bT6XFw)
+
 <i>September 22, 2020</i><br />
-[SLO] Fizika podnebnih sprememb. Srečnje srednješolskih profesorjev fizike. ZRSŠ
+[SLO] Fizika podnebnih sprememb. Srečanje srednješolskih profesorjev fizike. ZRSŠ
 
 <i>March 24, 2020 (postponed)</i><br />
 [SLO] [Podnebne spremembe in slovenska energetika.](http://www.sazu.si/events/5e625989e9bdb326a898b775) Slovenska akademija znanosti in umetnosti
