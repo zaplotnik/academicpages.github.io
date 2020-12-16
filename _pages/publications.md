@@ -60,6 +60,8 @@ Atmospheric predictability
 Other
 ======
 
+[SLO] Slameršak, A., <b>Ž. Zaplotnik</b>, L. Boljka, N. Črnivec,  2020: <a href="https://drive.google.com/file/d/1jB1u5CN3qE75PLRgBAbi-LucCHVcn0L8/view?usp=sharing">Suggestions for a political programme for a "green" transition (towards sustainability) and a minimisation of climate change impacts.</a> 4 pp.
+
 Boljka, L., <b>Ž. Zaplotnik</b>, A. Slameršak, N. Črnivec, 2020: [Comments and suggestions on the draft of the Slovenian long-term climate change strategy](https://drive.google.com/file/d/1psP-qqJbKs0fBEgqDec83A-N8_pgAHTK/view). A letter to the Ministry for the Environment, 2 pp. Media: [OE Finance](https://oe.finance.si/8966414/(prejeli-smo)-Predlog-raziskovalcev-za-spremembe-osnutka-podnebne-strategije?cctest&), [Meteorolog.si](http://meteorolog.si/index.php/2020/10/01/opozorilo-na-premajhno-ambicioznost-osnutka-dolgorocne-podnebne-strategije-slovenije/), [Globus](https://4d.rtvslo.si/arhiv/globus/174722022).
 
 <b>Zaplotnik, Ž.</b>, L. Boljka, N. Črnivec, A. Slameršak, 2020: Climate change – open letter: A request by the Slovenian researchers to take immediate action on improving the climate change mitigation and adaptation policy. Interesting facts, Vetrnica, in press.
