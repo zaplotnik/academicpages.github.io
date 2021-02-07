@@ -52,7 +52,7 @@ Student/public presentations
 ======
 
 <i>December 15, 2020</i><br />
-[SLO] 2021: Priložnost za inovativnost, odpornost in trajnostno preobrazbo
+[SLO] 2021: Priložnost za inovativnost, odpornost in trajnostno preobrazbo. Okrogla miza. BSC Kranj.
 
 <i>November 12, 2020</i><br />
 [SLO] Kako nam lahko epidemiološki modeli pomagajo pri odločanju? [COVID-19 Sledilnik Slovenija](https://www.youtube.com/watch?v=5Zz41bT6XFw)

@@ -12,7 +12,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-[Sledilnik COVID-19](https://www.24ur.com/novice/fokus/sledilnik-covid-19.html), 29. 11. 2020
+[Razglednice z vroče strani Alp](https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/),  1. 1. 2021
+
+[24 ur Fokus: Sledilnik COVID-19](https://www.24ur.com/novice/fokus/sledilnik-covid-19.html), 29. 11. 2020
 
 [Dnevnik: Včerajšnji rezultati testov niso neposredno primerljivi z jutrišnjimi številkami](https://www.dnevnik.si/1042938517/slovenija/vcerajsnji-rezultati-testov-niso-neposredno-primerljivi-z-jutrisnjimi-stevilkami), 11. 9. 2020
 
