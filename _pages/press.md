@@ -16,6 +16,8 @@ author_profile: true
 
 [24 ur Fokus: Sledilnik COVID-19](https://www.24ur.com/novice/fokus/sledilnik-covid-19.html), 29. 11. 2020
 
+[Radio Ognjišče: Moja največja bojazen so klimatske migracije](https://radio.ognjisce.si/sl/231/novice/32181/dr-ziga-zaplotnik-moja-najvecja-bojazen-so-klimatske-migracije.htm), 12. 10. 2020
+
 [Dnevnik: Včerajšnji rezultati testov niso neposredno primerljivi z jutrišnjimi številkami](https://www.dnevnik.si/1042938517/slovenija/vcerajsnji-rezultati-testov-niso-neposredno-primerljivi-z-jutrisnjimi-stevilkami), 11. 9. 2020
 
 [Val 202: Upam, da nas bo epidemija streznila, saj smo vsi del narave](https://val202.rtvslo.si/2020/06/predstavitev-kandidatov-107/)

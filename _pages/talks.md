@@ -4,6 +4,7 @@ title: "Talks and conference presentations"
 permalink: /talks/
 author_profile: true
 ---
+<b>Zaplotnik Ž.</b>, Pikovnik M., Boljka L. Recent Hadley cell strengthening: a trend or multidecadal variability?​ [INVITED TALK], Hamburg Universität, Meteorology Group Seminar, February 16, 2021
 
 <b>Zaplotnik Ž.</b> Simulation of the COVID-19 epidemic on the simplified social network of Slovenia [INVITED TALK] , Artificial Intelligence Laboratory
 Jožef Stefan Institute, November 11 2020.

@@ -24,11 +24,13 @@ error/bias.
 
 Horvat M., <b>Zaplotnik Ž.</b>, Žagar N., 2020: Universality of the Lorenz error growth function?
 
-<b>Zaplotnik Ž.</b>, Pikovnik M., Boljka L., Žagar N., 2020: Hadley circulation intensity trends in the global reanalyses - are they an artefact?
+
+Pikovnik M., <b>Zaplotnik Ž.</b>, Boljka L., 2021: The sensitivity of Hadley circulation strength to its measure.
 
 Submitted/In Review
 ======
-/
+<b>Zaplotnik Ž.</b>, Pikovnik M., Boljka L., 2021: Recent Hadley circulation strengthening: a trend or multidecadal variability? Submitted to Journal of Climate
+
 
 Atmospheric dynamics
 ======
