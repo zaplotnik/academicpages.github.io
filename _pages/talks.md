@@ -4,7 +4,7 @@ title: "Talks and conference presentations"
 permalink: /talks/
 author_profile: true
 ---
-<b>Zaplotnik Ž.</b>, Pikovnik M., Boljka L. Recent Hadley cell strengthening: a trend or multidecadal variability?​ [INVITED TALK], Hamburg Universität, Meteorology Group Seminar, February 16, 2021
+<b>Zaplotnik Ž.</b>, Pikovnik M., Boljka L. [Recent Hadley cell strengthening: a trend or multidecadal variability?](https://www.mi.uni-hamburg.de/arbeitsgruppen/theoretische-meteorologie/news/abstract-20210216/)​ [INVITED TALK], Hamburg Universität, Meteorology Group Seminar, February 16, 2021
 
 <b>Zaplotnik Ž.</b> Simulation of the COVID-19 epidemic on the simplified social network of Slovenia [INVITED TALK] , Artificial Intelligence Laboratory
 Jožef Stefan Institute, November 11 2020.
@@ -23,9 +23,9 @@ Jožef Stefan Institute, November 11 2020.
 
 <b>Zaplotnik Ž.</b>, Žagar N.: Wind retrieval from 4D-Var assimilation of tracers in moist atmosphere. International symposium on data assimilation, Munich, March 2018 [POSTER]
 
-Žagar N., <b>Zaplotnik Ž.</b>, Šavli M., Kosovelj K.: The role of tropical analysis uncertainties in global predictability. ECMWF, Reading 2017
+Žagar N., <b>Zaplotnik Ž.</b>, Šavli M., Kosovelj K.: The role of tropical analysis uncertainties in global predictability. Symposium Dynamical meteorology and numerical weather prediction, ECMWF, Reading 2017
 
-<b>Zaplotnik Ž.</b>, Žagar N.: Dynamics of winds and aerosols in 4D-Var data assimilation. Wind profiles and mesoscale data assimilation workshop, Ljubljana, September 2016 [TALK]
+<b>Zaplotnik Ž.</b>, Žagar N.: Dynamics of winds and aerosols in 4D-Var data assimilation. Workshop on Wind Profiles and Mesoscale Data Assimilation for Numerical Weather Prediction, Ljubljana, September 2016 [TALK]
 
 <b>Zaplotnik Ž.</b>, Žagar N.: Coupling of the aerosols, moisture and winds in 4D-Var data assimilation. Stockholm University, Stockholm, June 2016 [TALK]
 
@@ -52,11 +52,14 @@ NWP Data Assimilation
 Student/public presentations
 ======
 
+<i>March 26, 2020</i><br />
+[SLO] [Konferenca "O osnutku nacionalnega načrta za okrevanje in odpornost po epidemiji Covida-19"](https://www.predsednik.si/up-rs/uprs.nsf/objave/2498DFBC30E979C8C12586A400480C01?OpenDocument) Kongresni center Brdo.
+
 <i>December 15, 2020</i><br />
-[SLO] 2021: Priložnost za inovativnost, odpornost in trajnostno preobrazbo. Okrogla miza. BSC Kranj.
+[SLO] Priložnost za inovativnost, odpornost in trajnostno preobrazbo. Okrogla miza. BSC Kranj.
 
 <i>November 12, 2020</i><br />
-[SLO] Kako nam lahko epidemiološki modeli pomagajo pri odločanju? [COVID-19 Sledilnik Slovenija](https://www.youtube.com/watch?v=5Zz41bT6XFw)
+[SLO] Kako nam lahko epidemiološki modeli pomagajo pri odločanju? [COVID-19 Sledilnik Slovenija](https://www.youtube.com/watch?v=5Zz41bT6XFw) Predstavitev pred Odborom za izobraževanje, znanost, šport in mladino Državnega zbora RS
 
 <i>September 22, 2020</i><br />
 [SLO] Fizika podnebnih sprememb. Srečanje srednješolskih profesorjev fizike. ZRSŠ
