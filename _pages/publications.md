@@ -30,9 +30,9 @@ Horvat M., <b>Zaplotnik Ž.</b>, Žagar N., 2020: Universality of the Lorenz err
 
 Submitted/In Review
 ======
-<b>Zaplotnik Ž.</b>, Pikovnik M., Boljka L., 2021: Recent Hadley circulation strengthening: a trend or multidecadal variability? Submitted to Journal of Climate.
+<b>Zaplotnik Ž.</b>, Pikovnik M., Boljka L., 2021: Recent Hadley circulation strengthening: a trend or multidecadal variability? In review at Journal of Climate.
 
-Pikovnik M., <b>Zaplotnik Ž.</b>, Boljka L., 2021: The sensitivity of Hadley circulation strength to its measure. Submitted to Atmospheric Science Letters
+Pikovnik M., <b>Zaplotnik Ž.</b>, Boljka L., Žagar N., 2021: The sensitivity of Hadley circulation strength to its measure. Submitted to Weather and Climate Dynamics.
 
 
 

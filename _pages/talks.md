@@ -53,7 +53,7 @@ Student/public presentations
 ======
 
 <i>March 26, 2020</i><br />
-[SLO] [Konferenca "O osnutku nacionalnega načrta za okrevanje in odpornost po epidemiji Covida-19"](https://www.predsednik.si/up-rs/uprs.nsf/objave/2498DFBC30E979C8C12586A400480C01?OpenDocument) Kongresni center Brdo.
+[SLO] [Konferenca "O osnutku nacionalnega načrta za okrevanje in odpornost po epidemiji Covida-19"](https://www.predsednik.si/up-rs/uprs.nsf/objave/2498DFBC30E979C8C12586A400480C01?OpenDocument) Kongresni center Brdo. [Sodelujoci](http://zaplotnik.github.io/files/2021-03-26_Udelezenci_konferenca_NOO.pdf)
 
 <i>December 15, 2020</i><br />
 [SLO] Priložnost za inovativnost, odpornost in trajnostno preobrazbo. Okrogla miza. BSC Kranj.
