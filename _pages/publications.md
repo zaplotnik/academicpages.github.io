@@ -15,24 +15,23 @@ author_profile: true
 In preparation
 ======
 
-<b>Zaplotnik Ž.</b>, Žagar N., 2020: Flow-dependent wind extraction in weak-constraint 4D-Var.
+<b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2021: Flow-dependent wind extraction in weak-constraint 4D-Var.
 
-<b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2020: Basic properties of the 4D-Var wind extraction in the presence of model
-error/bias.
+<b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2021: Flow-dependent wind extraction in strong-constraint 4D-Var.
 
 <b>Zaplotnik Ž.</b>, Žagar N., 2020: Attribution of vertical velocity to Rossby modes, gravity modes and spatial scales.
 
 Horvat M., <b>Zaplotnik Ž.</b>, Žagar N., 2020: Universality of the Lorenz error growth function?
 
 
-
+Hoxha D., Skok G., <b>Zaplotnik Ž.</b>. Forecasting the maximal and minimal daily temperatures from weather balloon measurements using neural networks
 
 
 Submitted/In Review
 ======
 <b>Zaplotnik Ž.</b>, Pikovnik M., Boljka L., 2021: Recent Hadley circulation strengthening: a trend or multidecadal variability? In review at Journal of Climate.
 
-Pikovnik M., <b>Zaplotnik Ž.</b>, Boljka L., Žagar N., 2021: The sensitivity of Hadley circulation strength to its measure. Submitted to Weather and Climate Dynamics.
+Pikovnik M., <b>Zaplotnik Ž.</b>, Boljka L., Žagar N., 2021: Indices of the Hadley circulation strength and associated circulation trends. Submitted to Weather and Climate Dynamics.
 
 
 
