@@ -24,14 +24,13 @@ In preparation
 Horvat M., <b>Zaplotnik Ž.</b>, Žagar N., 2020: Universality of the Lorenz error growth function?
 
 
-Hoxha D., Skok G., <b>Zaplotnik Ž.</b>. Forecasting the maximal and minimal daily temperatures from weather balloon measurements using neural networks
-
-
 Submitted/In Review
 ======
-<b>Zaplotnik Ž.</b>, Pikovnik M., Boljka L., 2021: Recent Hadley circulation strengthening: a trend or multidecadal variability? In review at Journal of Climate.
+Skok G., Hoxha D., <b>Zaplotnik Ž.</b>. Forecasting the Daily Maximal and Minimal Temperatures from Radiosonde Measurements Using Neural Networks. Submitted to MDPI
 
-Pikovnik M., <b>Zaplotnik Ž.</b>, Boljka L., Žagar N., 2021: Indices of the Hadley circulation strength and associated circulation trends. Submitted to Weather and Climate Dynamics.
+<b>Zaplotnik Ž.</b>, Pikovnik M., Boljka L., 2021: Recent Hadley circulation strengthening: a trend or multidecadal variability? Under review for Journal of Climate.
+
+Pikovnik M., <b>Zaplotnik Ž.</b>, Boljka L., Žagar N., 2021: Indices of the Hadley circulation strength and associated circulation trends. [Link](https://wcd.copernicus.org/preprints/wcd-2021-50/#discussion) Under review/discussion for EGU Weather and Climate Dynamics.
 
 
 

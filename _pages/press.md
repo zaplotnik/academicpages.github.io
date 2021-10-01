@@ -12,6 +12,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+[Z vetrom okoli sveta](https://4d.rtvslo.si/arhiv/ugriznimo-znanost/174514413), Ugriznimo znanost, RTV Slovenija, 29. 9. 2021
+
 [Slovenijo čaka veliko več neurij z močnim vetrom in točo](https://n1info.si/poglobljeno/dr-ziga-zaplotnik-slovenijo-caka-veliko-vec-neurij-z-mocnim-vetrom-in-toco/) N1, 25. 7. 2021
 
 [Revizija: Uspešnost doseganja ciljev na področju zmanjševanja izpustov toplogrednih plinov](https://www.youtube.com/watch?v=0XdUHwSD628) Računsko sodišče Republike Slovenije, 17. 6. 2021
