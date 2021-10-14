@@ -15,6 +15,10 @@ author_profile: true
 In preparation
 ======
 
+Žagar, N., <b>Zaplotnik Ž.</b>, Neduhal, V. Spectra of vertical motions in hydrostatic atmosphere decomposed into Rossby and inertia-gravity components
+
+Kosovelj, K., et al. Multidecadal variability of the Walker circulation in 20th century reanalyses.
+
 <b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2021: Flow-dependent wind extraction in weak-constraint 4D-Var.
 
 <b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2021: Flow-dependent wind extraction in strong-constraint 4D-Var.
