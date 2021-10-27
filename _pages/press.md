@@ -12,7 +12,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+[Zadnja prava priložnost za ukrepanje glede podnebne krize](https://val202.rtvslo.si/2021/10/vroci-mikrofon-331/), Vroči Mikrofon, Val 202, 27. 10. 2021
+
+[Podnebne spremembe: katastrofa našega časa](https://www.24ur.com/novice/inspektor/podnebne-spremembe-katastrofa-nasega-casa.html), 24UR Inšpektor,  23. 10. 2021
+
 [Z vetrom okoli sveta](https://4d.rtvslo.si/arhiv/ugriznimo-znanost/174811400), Ugriznimo znanost, RTV Slovenija, 7. 10. 2021
+
+[Tiha grožnja športu](https://sportklub.n1info.si/drugi-sporti/podnebne-spremembe-sport/), Sportklub N1, 28. 8. 2021
 
 [Slovenijo čaka veliko več neurij z močnim vetrom in točo](https://n1info.si/poglobljeno/dr-ziga-zaplotnik-slovenijo-caka-veliko-vec-neurij-z-mocnim-vetrom-in-toco/) N1, 25. 7. 2021
 
@@ -22,13 +28,13 @@ author_profile: true
 
 [Razglednice z vroče strani Alp: ko se bomo rešili pandemije, nam bo še vedno ostala podnebna kriza](https://www.delo.si/sobotna-priloga/razglednice-z-vroce-strani-alp/), Delo, Sobotna priloga  1. 1. 2021
 
-[Sledilnik COVID-19](https://www.24ur.com/novice/fokus/sledilnik-covid-19.html), 24 ur, Fokus, 29. 11. 2020
+[Sledilnik COVID-19](https://www.24ur.com/novice/fokus/sledilnik-covid-19.html), 24UR, Fokus, 29. 11. 2020
 
 [Moja največja bojazen so klimatske migracije](https://radio.ognjisce.si/sl/231/novice/32181/dr-ziga-zaplotnik-moja-najvecja-bojazen-so-klimatske-migracije.htm), Radio Ognjišče, 12. 10. 2020
 
 [Včerajšnji rezultati testov niso neposredno primerljivi z jutrišnjimi številkami](https://www.dnevnik.si/1042938517/slovenija/vcerajsnji-rezultati-testov-niso-neposredno-primerljivi-z-jutrisnjimi-stevilkami), Dnevnik, 11. 9. 2020
 
-[Upam, da nas bo epidemija streznila, saj smo vsi del narave](https://val202.rtvslo.si/2020/06/predstavitev-kandidatov-107/), Val 202
+[Upam, da nas bo epidemija streznila, saj smo vsi del narave](https://val202.rtvslo.si/2020/06/predstavitev-kandidatov-107/), Ime tedna, Val 202, 22. 6. 2020
 
 [Podnebne spremembe ne poznajo meja](https://repozitorij.uni-lj.si/Dokument.php?id=127208&lang=slv), Revija Gea, februar 2020 [PDF](http://zaplotnik.github.io/files/02 feb 2020 06-13.pdf)
 
