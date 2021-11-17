@@ -21,8 +21,6 @@ Kosovelj, K., et al. Multidecadal variability of the Walker circulation in 20th 
 
 <b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2021: Flow-dependent wind extraction in weak-constraint 4D-Var.
 
-<b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2021: Flow-dependent wind extraction in strong-constraint 4D-Var.
-
 <b>Zaplotnik Ž.</b>, Žagar N., 2020: Attribution of vertical velocity to Rossby modes, gravity modes and spatial scales.
 
 Horvat M., <b>Zaplotnik Ž.</b>, Žagar N., 2020: Universality of the Lorenz error growth function?
@@ -30,7 +28,7 @@ Horvat M., <b>Zaplotnik Ž.</b>, Žagar N., 2020: Universality of the Lorenz err
 
 Submitted/In Review
 ======
-
+<b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2021: Flow-dependent wind extraction in strong-constraint 4D-Var. Submitted to Quarterly Journal of Royal Meteorological Society
 
 <b>Zaplotnik Ž.</b>, Pikovnik M., Boljka L., 2021: Recent Hadley circulation strengthening: a trend or multidecadal variability? Under review for Journal of Climate.
 

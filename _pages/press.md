@@ -12,6 +12,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+[Ocena izkupička podnebne konference v Glasgowu](https://val202.rtvslo.si/2021/11/vroci-mikrofon-333/), Vroči mikrofon, Val 202, 17. 11. 2021
+
 [MOZAIK DNEVA](https://avdio.ognjisce.si/cikel/informativne_oddaje), Mozaik dneva, Radio Ognjišče, 10. 11. 2021
 
 [Zadnja prava priložnost za ukrepanje glede podnebne krize](https://val202.rtvslo.si/2021/10/vroci-mikrofon-331/), Vroči Mikrofon, Val 202, 27. 10. 2021
