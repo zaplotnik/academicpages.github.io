@@ -12,6 +12,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+[MOZAIK DNEVA](https://avdio.ognjisce.si/cikel/informativne_oddaje), Mozaik dneva, Radio Ognjišče, 10. 11. 2021
+
 [Zadnja prava priložnost za ukrepanje glede podnebne krize](https://val202.rtvslo.si/2021/10/vroci-mikrofon-331/), Vroči Mikrofon, Val 202, 27. 10. 2021
 
 [Podnebne spremembe: katastrofa našega časa](https://www.24ur.com/novice/inspektor/podnebne-spremembe-katastrofa-nasega-casa.html), 24UR Inšpektor,  23. 10. 2021

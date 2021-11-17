@@ -30,12 +30,16 @@ Horvat M., <b>Zaplotnik Ž.</b>, Žagar N., 2020: Universality of the Lorenz err
 
 Submitted/In Review
 ======
-Skok G., Hoxha D., <b>Zaplotnik Ž.</b>. Forecasting the Daily Maximal and Minimal Temperatures from Radiosonde Measurements Using Neural Networks. Submitted to MDPI
+
 
 <b>Zaplotnik Ž.</b>, Pikovnik M., Boljka L., 2021: Recent Hadley circulation strengthening: a trend or multidecadal variability? Under review for Journal of Climate.
 
 Pikovnik M., <b>Zaplotnik Ž.</b>, Boljka L., Žagar N., 2021: Indices of the Hadley circulation strength and associated circulation trends. [Link](https://wcd.copernicus.org/preprints/wcd-2021-50/#discussion) Under review/discussion for EGU Weather and Climate Dynamics.
 
+
+Machine learning
+======
+Skok G., Hoxha D., <b>Zaplotnik Ž.</b>, 2021. Forecasting the Daily Maximal and Minimal Temperatures from Radiosonde Measurements Using Neural Networks. Appl. Sci. 11(22) [Link](https://www.mdpi.com/2076-3417/11/22/10852)
 
 
 Atmospheric dynamics
