@@ -28,6 +28,8 @@ Horvat M., <b>Zaplotnik Ž.</b>, Žagar N., 2020: Universality of the Lorenz err
 
 Submitted/In Review
 ======
+Pikovnik M., <b>Zaplotnik Ž.</b>, 2021: Dekompozicija prispevkov k intenzivnosti Hadleyjeve cirkulacije.
+
 <b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2021: Flow-dependent wind extraction in strong-constraint 4D-Var. Submitted to Quarterly Journal of Royal Meteorological Society
 
 <b>Zaplotnik Ž.</b>, Pikovnik M., Boljka L., 2021: Recent Hadley circulation strengthening: a trend or multidecadal variability? Under review for Journal of Climate.

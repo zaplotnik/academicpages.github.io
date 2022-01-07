@@ -12,6 +12,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+[Znanost 2021: o ugankah vesolja, življenja in obstoja na Zemlji](https://365.rtvslo.si/arhiv/studio-ob-17h/174836491), Studio ob 17h, Radio Prvi, 3. 1. 2022
+
+["Konec stoletja bi lahko imela Kredarica tako klimo, kot jo ima danes Krvavec"](https://365.rtvslo.si/arhiv/podobe-znanja/174829842), Podobe znanja, ARS, 10. 12. 2021
+
 [Ocena izkupička podnebne konference v Glasgowu](https://val202.rtvslo.si/2021/11/vroci-mikrofon-333/), Vroči mikrofon, Val 202, 17. 11. 2021
 
 [MOZAIK DNEVA](https://avdio.ognjisce.si/cikel/informativne_oddaje), Mozaik dneva, Radio Ognjišče, 10. 11. 2021
@@ -24,9 +28,9 @@ author_profile: true
 
 [Tiha grožnja športu](https://sportklub.n1info.si/drugi-sporti/podnebne-spremembe-sport/), Sportklub N1, 28. 8. 2021
 
-[Slovenijo čaka veliko več neurij z močnim vetrom in točo](https://n1info.si/poglobljeno/dr-ziga-zaplotnik-slovenijo-caka-veliko-vec-neurij-z-mocnim-vetrom-in-toco/) N1, 25. 7. 2021
+[Slovenijo čaka veliko več neurij z močnim vetrom in točo](https://n1info.si/poglobljeno/dr-ziga-zaplotnik-slovenijo-caka-veliko-vec-neurij-z-mocnim-vetrom-in-toco/), N1, 25. 7. 2021
 
-[Revizija: Uspešnost doseganja ciljev na področju zmanjševanja izpustov toplogrednih plinov](https://www.youtube.com/watch?v=0XdUHwSD628) Računsko sodišče Republike Slovenije, 17. 6. 2021
+[Revizija: Uspešnost doseganja ciljev na področju zmanjševanja izpustov toplogrednih plinov](https://www.youtube.com/watch?v=0XdUHwSD628), Računsko sodišče Republike Slovenije, 17. 6. 2021
 
 [V Sloveniji smo bili priča vremenskemu ekstremu, ki je značilen za Sibirijo](https://www.rtvslo.si/stevilke/v-sloveniji-smo-bili-prica-vremenskemu-ekstremu-ki-je-znacilen-za-sibirijo/577592) Podkast Številke 182, MMC RTV Slovenija, 23. 4. 2021
 

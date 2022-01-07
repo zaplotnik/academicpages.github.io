@@ -4,6 +4,8 @@ title: "Talks and conference presentations"
 permalink: /talks/
 author_profile: true
 ---
+<b>Zaplotnik Ž.</b>. [Recent changes of the tropical Hadley circulation: climate-change-induced trend or multidecadal variability?](https://www.fmf.uni-lj.si/sl/obvestila/dogodek/434/nobel-2021-dr-ziga-zaplotnik-fmf-recent-changes-of-the-tropical-hadley-circulation-climate-change-induced-trend-or-multidecadal-variability/), Faculty of Mathematics and Physics, University of Ljubljana, January 3, 2022
+
 <b>Zaplotnik Ž.</b>, Pikovnik M., Boljka L. [Recent Hadley cell strengthening: a trend or multidecadal variability?](https://www.mi.uni-hamburg.de/arbeitsgruppen/theoretische-meteorologie/news/abstract-20210216/)​ [INVITED TALK], Hamburg Universität, Meteorology Group Seminar, February 16, 2021
 
 <b>Zaplotnik Ž.</b> Simulation of the COVID-19 epidemic on the simplified social network of Slovenia [INVITED TALK] , Artificial Intelligence Laboratory
@@ -53,7 +55,7 @@ Student/public presentations
 ======
 
 <i>October 22, 2021</i><br />
-[SLO] [Mednarodni raziskovalni študentski tabor "Mikrofon podnebju: znanje in kompetence za komuniciranje podnebnih sprememb"](http://zaplotnik.github.io/files/VABILO_C4C.pdf) Predavanje Fizika podnebnih sprememb. 
+[SLO] [Mednarodni raziskovalni študentski tabor "Mikrofon podnebju: znanje in kompetence za komuniciranje podnebnih sprememb"](http://zaplotnik.github.io/files/VABILO_C4C.pdf) Predavanje Fizika podnebnih sprememb.
 
 <i>March 26, 2021</i><br />
 [SLO] [Konferenca "O osnutku nacionalnega načrta za okrevanje in odpornost po epidemiji Covida-19"](https://www.predsednik.si/up-rs/uprs.nsf/objave/2498DFBC30E979C8C12586A400480C01?OpenDocument) Kongresni center Brdo. [Sodelujoci](http://zaplotnik.github.io/files/2021-03-26_Udelezenci_konferenca_NOO.pdf)
