@@ -12,6 +12,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+[V Kopru bo kot v Atenah, na Kredarici pa kot na Krvavcu](https://www.delo.si/novice/znanoteh/v-kopru-bo-kot-v-atenah-na-kredarici-pa-kot-na-krvavcu/), Delo, 17. 2. 2022
+
+[Na ekstremno vreme naša infrastruktura ni pripravljena](https://www.delo.si/novice/znanoteh/na-ekstremno-vreme-nasa-infrastruktura-ni-pripravljena/), Delo, 27. 1. 2022
+
 [Znanost 2021: o ugankah vesolja, življenja in obstoja na Zemlji](https://365.rtvslo.si/arhiv/studio-ob-17h/174836491), Studio ob 17h, Radio Prvi, 3. 1. 2022
 
 ["Konec stoletja bi lahko imela Kredarica tako klimo, kot jo ima danes Krvavec"](https://365.rtvslo.si/arhiv/podobe-znanja/174829842), Podobe znanja, ARS, 10. 12. 2021

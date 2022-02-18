@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-<i>2018-current</i><br />
+<i>March-April 2022</i><br />
+<b>Postdoc</b>, ECMWF<br />
+<i>Topic:</i> Wind tracing
+
+<i>2018-2021</i><br />
 <b>Postdoc</b>, University of Ljubljana<br />
-<i>Topic:</i> studying the contribution of different circulation types to vertical velocity Omega and momemntum fluxes
+<i>Topic:</i> studying the contribution of different circulation types to vertical velocity Omega and momentum fluxes
 
 <i>May-Jun 2016</i><br />
 <b>Visiting researcher</b>, SMHI<br />
@@ -57,7 +61,8 @@ Skills
 
 Awards
 ======
-* Outreach Award 2020 for [RESCCCUE](https://www.emetsoc.org/oc2020-for-rescccue-slovenia/) (REminding Slovenian authorities Climate Change Crisis requires Urgent Effort), together with dr. Lina Boljka, Nina Črnivec and Aljoša Slameršak [PDF](http://zaplotnik.github.io/files/oc2020_certificate-rescccue_sig_210607-5.pdf)
+
+* Outreach Award 2020 for [RESCCCUE](https://www.emetsoc.org/oc2020-for-rescccue-slovenia/) (REminding Slovenian authorities Climate Change Crisis requires Urgent Effort), together with dr. Lina Boljka, Nina Črnivec and Aljoša Slameršak [link](https://www.gov.si/novice/2020-06-19-slovenski-meteorolog-prejeli-nagrado-evropskega-meteoroloskega-zdruzenja-za-najboljsi-projekt-ozavescanja-in-komuniciranja-v-letu-2020/) [PDF](http://zaplotnik.github.io/files/oc2020_certificate-rescccue_sig_210607-5.pdf)
 * Zois Scholarship, intended for distinctly talented pupils and students (2004-2014)
 * Golden Matura award (2008)
 * Dean's Award for academic achievement (2009, 2010, 2011)
