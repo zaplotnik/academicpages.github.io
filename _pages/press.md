@@ -12,6 +12,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+[Bo v Kopru zaradi podnebnih sprememb kmalu kot v Atenah?](https://www.rtvslo.si/radio-koper/prispevki/zgodbe/bo-v-kopru-zaradi-podnebnih-sprememb-kmalu-kot-v-atenah/614677), Radio Koper, 5. 3. 2022
+
 [V Kopru bo kot v Atenah, na Kredarici pa kot na Krvavcu](https://www.delo.si/novice/znanoteh/v-kopru-bo-kot-v-atenah-na-kredarici-pa-kot-na-krvavcu/), Delo, 17. 2. 2022
 
 [Na ekstremno vreme naša infrastruktura ni pripravljena](https://www.delo.si/novice/znanoteh/na-ekstremno-vreme-nasa-infrastruktura-ni-pripravljena/), Delo, 27. 1. 2022
