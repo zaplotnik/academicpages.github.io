@@ -39,7 +39,7 @@ Machine learning
 Skok G., Hoxha D., <b>Zaplotnik Ž.</b>, 2021. Forecasting the Daily Maximal and Minimal Temperatures from Radiosonde Measurements Using Neural Networks. Appl. Sci. 11(22) [Link](https://www.mdpi.com/2076-3417/11/22/10852)
 
 
-Atmospheric dynamics
+Atmospheric circulation/dynamics
 ======
 
 Pikovnik M., <b>Zaplotnik Ž.</b>, 2021: Dekompozicija prispevkov k intenzivnosti Hadleyjeve cirkulacije. Sprejeto v SZGG [SLO]

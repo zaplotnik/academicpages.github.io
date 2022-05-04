@@ -11,6 +11,9 @@ author_profile: true
 {% for post in site.press %}
   {% include archive-single.html %}
 {% endfor %}
+[N1 SOOČENJE: Epidemija, kultura, pravica do splava, podnebne spremembe …](https://n1info.si/volitve-2022/n1-volilna-soocenja/n1-soocenje-epidemija-kultura-pravica-do-splava-podnebne-spremembe/), N1 Slovenija, 19. 4. 2022
+
+[Dr. Žiga Zaplotnik politikom pred volitvamiČ: Ukrepajte!](https://n1info.si/poglobljeno/ziga-zaplotnik-potrebujemo-jasno-casovnico-podnebnih-ukrepov/), N1 Slovenija, 9. 4. 2022
 
 [Bo v Kopru zaradi podnebnih sprememb kmalu kot v Atenah?](https://www.rtvslo.si/radio-koper/prispevki/zgodbe/bo-v-kopru-zaradi-podnebnih-sprememb-kmalu-kot-v-atenah/614677), Radio Koper, 5. 3. 2022
 
@@ -34,7 +37,7 @@ author_profile: true
 
 [Tiha grožnja športu](https://sportklub.n1info.si/drugi-sporti/podnebne-spremembe-sport/), Sportklub N1, 28. 8. 2021
 
-[Slovenijo čaka veliko več neurij z močnim vetrom in točo](https://n1info.si/poglobljeno/dr-ziga-zaplotnik-slovenijo-caka-veliko-vec-neurij-z-mocnim-vetrom-in-toco/), N1, 25. 7. 2021
+[Slovenijo čaka veliko več neurij z močnim vetrom in točo](https://n1info.si/poglobljeno/dr-ziga-zaplotnik-slovenijo-caka-veliko-vec-neurij-z-mocnim-vetrom-in-toco/), N1 Slovenija, 25. 7. 2021
 
 [Revizija: Uspešnost doseganja ciljev na področju zmanjševanja izpustov toplogrednih plinov](https://www.youtube.com/watch?v=0XdUHwSD628), Računsko sodišče Republike Slovenije, 17. 6. 2021
 
