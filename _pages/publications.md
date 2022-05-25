@@ -31,8 +31,6 @@ Submitted/In Review
 
 <b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2021: Flow-dependent wind extraction in strong-constraint 4D-Var. Submitted to Quarterly Journal of Royal Meteorological Society
 
-Pikovnik M., <b>Zaplotnik Ž.</b>, Boljka L., Žagar N., 2021: Indices of the Hadley circulation strength and associated circulation trends. [Link](https://wcd.copernicus.org/preprints/wcd-2021-50/#discussion) Under review/discussion for EGU Weather and Climate Dynamics.
-
 
 Machine learning
 ======
@@ -41,6 +39,8 @@ Skok G., Hoxha D., <b>Zaplotnik Ž.</b>, 2021. Forecasting the Daily Maximal and
 
 Atmospheric circulation/dynamics
 ======
+
+Pikovnik M., <b>Zaplotnik Ž.</b>, Boljka L., Žagar N., 2022: Metrics of the Hadley circulation strength and associated circulation trends. [Link](https://wcd.copernicus.org/preprints/wcd-2021-50/#discussion) Accepted for EGU Weather and Climate Dynamics.
 
 Pikovnik M., <b>Zaplotnik Ž.</b>, 2021: Dekompozicija prispevkov k intenzivnosti Hadleyjeve cirkulacije. Sprejeto v SZGG [SLO]
 

@@ -4,6 +4,11 @@ title: "Talks and conference presentations"
 permalink: /talks/
 author_profile: true
 ---
+
+
+
+<b>Zaplotnik Ž.</b>, Pikovnik M., Boljka L. [Recent Hadley cell strengthening: a trend or multidecadal variability?](https://meetingorganizer.copernicus.org/EGU22/EGU22-3866.html)​ EGU General Assembly 2022, May 25, 2022 [TALK]
+
 <b>Zaplotnik Ž.</b>. [Recent changes of the tropical Hadley circulation: climate-change-induced trend or multidecadal variability?](https://www.fmf.uni-lj.si/sl/obvestila/dogodek/434/nobel-2021-dr-ziga-zaplotnik-fmf-recent-changes-of-the-tropical-hadley-circulation-climate-change-induced-trend-or-multidecadal-variability/), Faculty of Mathematics and Physics, University of Ljubljana, January 3, 2022
 
 <b>Zaplotnik Ž.</b>, Pikovnik M., Boljka L. [Recent Hadley cell strengthening: a trend or multidecadal variability?](https://www.mi.uni-hamburg.de/arbeitsgruppen/theoretische-meteorologie/news/abstract-20210216/)​ [INVITED TALK], Hamburg Universität, Meteorology Group Seminar, February 16, 2021
@@ -21,7 +26,7 @@ Jožef Stefan Institute, November 11 2020.
 
 Žagar N., <b>Zaplotnik Ž.</b>: Growth of forecast uncertainties in global prediction systems and IG wave dynamics. Workshop on Sensitivity Analysis and Data Assimilation in Meteorology and Oceanography, Aveiro, July 2018
 
-<b>Zaplotnik Ž.</b>, Žagar N. Wind retrieval from 4D-Var assimilation of tracers in moist atmosphere. EGU General Assembly (2018) [TALK]
+<b>Zaplotnik Ž.</b>, Žagar N. Wind retrieval from 4D-Var assimilation of tracers in moist atmosphere. EGU General Assembly 2018 [TALK]
 
 <b>Zaplotnik Ž.</b>, Žagar N.: Wind retrieval from 4D-Var assimilation of tracers in moist atmosphere. International symposium on data assimilation, Munich, March 2018 [POSTER]
 
@@ -53,6 +58,9 @@ NWP Data Assimilation
 
 Student/public presentations
 ======
+
+<i>May 9, 2022</i><br />
+[SLO] [Podnebne spremembe – stanje in izzivi v Sloveniji](https://unilj-my.sharepoint.com/:p:/g/personal/ziga_zaplotnik_fmf_uni-lj_si1/EQuf7YeUVutCmgDWeAjOqpABlydi6jOQ6xlAIlD05vTvJg?e=4pYUQW), [Energetski prehod Slovenije](https://www.gzs.si/Dogodki/9-05-2022/energetsko-podnebni-prehod-slovenije--odpiramo-javno-razpravo) Gospodarska zbornica Slovenije, [LINK](https://www.youtube.com/watch?v=uO1hG-vZxyY)
 
 <i>October 22, 2021</i><br />
 [SLO] [Mednarodni raziskovalni študentski tabor "Mikrofon podnebju: znanje in kompetence za komuniciranje podnebnih sprememb"](http://zaplotnik.github.io/files/VABILO_C4C.pdf) Predavanje Fizika podnebnih sprememb.

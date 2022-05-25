@@ -11,6 +11,10 @@ author_profile: true
 {% for post in site.press %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+[Zakaj bi upočasnitev podnebnih sprememb koristila slovenskemu gospodarstvu](https://oe.finance.si/9000106/Zakaj-bi-upocasnitev-podnebnih-sprememb-koristila-slovenskemu-gospodarstvu), Finance, 18. 5. 2022
+
 [N1 SOOČENJE: Epidemija, kultura, pravica do splava, podnebne spremembe …](https://n1info.si/volitve-2022/n1-volilna-soocenja/n1-soocenje-epidemija-kultura-pravica-do-splava-podnebne-spremembe/), N1 Slovenija, 19. 4. 2022
 
 [Dr. Žiga Zaplotnik politikom pred volitvamiČ: Ukrepajte!](https://n1info.si/poglobljeno/ziga-zaplotnik-potrebujemo-jasno-casovnico-podnebnih-ukrepov/), N1 Slovenija, 9. 4. 2022
