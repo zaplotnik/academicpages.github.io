@@ -5,8 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-
-
 <b>Zaplotnik Ž.</b>, Pikovnik M., Boljka L. [Recent Hadley cell strengthening: a trend or multidecadal variability?](https://meetingorganizer.copernicus.org/EGU22/EGU22-3866.html)​ EGU General Assembly 2022, May 25, 2022 [TALK]
 
 <b>Zaplotnik Ž.</b>. [Recent changes of the tropical Hadley circulation: climate-change-induced trend or multidecadal variability?](https://www.fmf.uni-lj.si/sl/obvestila/dogodek/434/nobel-2021-dr-ziga-zaplotnik-fmf-recent-changes-of-the-tropical-hadley-circulation-climate-change-induced-trend-or-multidecadal-variability/), Faculty of Mathematics and Physics, University of Ljubljana, January 3, 2022
@@ -58,6 +56,12 @@ NWP Data Assimilation
 
 Student/public presentations
 ======
+
+<i>June 9, 2022</i><br />
+[SLO] <b>Zaplotnik Ž.</b> Fizika podnebnih sprememb, Astronomski observatorij Golovec.
+
+<i>June 3, 2022</i><br />
+[SLO] <b>Zaplotnik Ž.</b> [Podnebne spremembe v Sloveniji - oris širše problematike](https://okoljskidan.gzs.si/vsebina/Program-Programme), Gospodarska zbornica Slovenije, Bled. [SLIDES](https://okoljskidan.gzs.si/Portals/Portal-Okoljski-dan/Vsebine/OD_2022/GZS-Okoljski%20dan%202022_v2-Ziga%20Zaplotnik.pdf)
 
 <i>May 9, 2022</i><br />
 [SLO] [Podnebne spremembe – stanje in izzivi v Sloveniji](https://unilj-my.sharepoint.com/:p:/g/personal/ziga_zaplotnik_fmf_uni-lj_si1/EQuf7YeUVutCmgDWeAjOqpABlydi6jOQ6xlAIlD05vTvJg?e=4pYUQW), [Energetski prehod Slovenije](https://www.gzs.si/Dogodki/9-05-2022/energetsko-podnebni-prehod-slovenije--odpiramo-javno-razpravo) Gospodarska zbornica Slovenije, [LINK](https://www.youtube.com/watch?v=uO1hG-vZxyY)

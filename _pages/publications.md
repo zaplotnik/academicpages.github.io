@@ -29,24 +29,24 @@ Horvat M., <b>Zaplotnik Ž.</b>, Žagar N., 2020: Universality of the Lorenz err
 Submitted/In Review
 ======
 
-<b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2021: Flow-dependent wind extraction in strong-constraint 4D-Var. Submitted to Quarterly Journal of Royal Meteorological Society
+<b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2021: Flow-dependent wind extraction in strong-constraint 4D-Var. Under review in Quarterly Journal of Royal Meteorological Society
 
 
 Machine learning
 ======
-Skok G., Hoxha D., <b>Zaplotnik Ž.</b>, 2021. Forecasting the Daily Maximal and Minimal Temperatures from Radiosonde Measurements Using Neural Networks. Appl. Sci. 11(22) [Link](https://www.mdpi.com/2076-3417/11/22/10852)
+Skok G., Hoxha D., <b>Zaplotnik Ž.</b>, 2021. Forecasting the Daily Maximal and Minimal Temperatures from Radiosonde Measurements Using Neural Networks. <i>Appl. Sci.</i> 11(22) [Link](https://www.mdpi.com/2076-3417/11/22/10852)
 
 
 Atmospheric circulation/dynamics
 ======
 
-Pikovnik M., <b>Zaplotnik Ž.</b>, Boljka L., Žagar N., 2022: Metrics of the Hadley circulation strength and associated circulation trends. [Link](https://wcd.copernicus.org/preprints/wcd-2021-50/#discussion) Accepted for EGU Weather and Climate Dynamics.
+Pikovnik M., <b>Zaplotnik Ž.</b>, Boljka L., Žagar N., 2022: Metrics of the Hadley circulation strength and associated circulation trends. <i>Weather Clim. Dynam.</i>, 3, 625–644 [Link](https://wcd.copernicus.org/articles/3/625/2022/)
 
-Pikovnik M., <b>Zaplotnik Ž.</b>, 2021: Dekompozicija prispevkov k intenzivnosti Hadleyjeve cirkulacije. Sprejeto v SZGG [SLO]
+Pikovnik M., <b>Zaplotnik Ž.</b>, 2022: Dekompozicija prispevkov k intenzivnosti Hadleyjeve cirkulacije. SZGG [SLO] [Link](http://fgg-web.fgg.uni-lj.si/SUGG/referati/2022/SZGG_2022_Pikovnik_Zaplotnik.pdf)
 
-<b>Zaplotnik Ž.</b>, Pikovnik M., Boljka L., 2021: Recent Hadley circulation strengthening: a trend or multidecadal variability? Accepted in Journal of Climate.
+<b>Zaplotnik Ž.</b>, Pikovnik M., Boljka L., 2021: Recent Hadley circulation strengthening: a trend or multidecadal variability? <i>Journal of Climate</i>, 35(13), 4157-4176 [Link](https://journals.ametsoc.org/view/journals/clim/35/13/JCLI-D-21-0204.1.xml)
 
-Žagar N., <b>Zaplotnik Ž.</b>, Karami K., 2020: Atmospheric Subseasonal Variability and Circulation Regimes: Spectra, Trends and Uncertainties. <i>Journal of Climate</i> 33(21), 9375-9390. [Link](https://journals.ametsoc.org/jcli/article-abstract/33/21/9375/354223/Atmospheric-Subseasonal-Variability-and?redirectedFrom=fulltext)
+Žagar N., <b>Zaplotnik Ž.</b>, Karami K., 2020: Atmospheric Subseasonal Variability and Circulation Regimes: Spectra, Trends and Uncertainties. <i>Journal of Climate</i>, 33(21), 9375-9390. [Link](https://journals.ametsoc.org/jcli/article-abstract/33/21/9375/354223/Atmospheric-Subseasonal-Variability-and?redirectedFrom=fulltext)
 
 Computational epidemiology
 ======

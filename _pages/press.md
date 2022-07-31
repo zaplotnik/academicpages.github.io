@@ -13,6 +13,8 @@ author_profile: true
 {% endfor %}
 
 
+[Kako bo EU nadzirala kitajske, ruske in druge izpuste ogljikovega dioksida](https://oe.finance.si/9000842/Kako-bo-EU-nadzirala-kitajske-ruske-in-druge-emisije-CO2), Finance, 7. 6. 2022
+
 [Zakaj bi upočasnitev podnebnih sprememb koristila slovenskemu gospodarstvu](https://oe.finance.si/9000106/Zakaj-bi-upocasnitev-podnebnih-sprememb-koristila-slovenskemu-gospodarstvu), Finance, 18. 5. 2022
 
 [N1 SOOČENJE: Epidemija, kultura, pravica do splava, podnebne spremembe …](https://n1info.si/volitve-2022/n1-volilna-soocenja/n1-soocenje-epidemija-kultura-pravica-do-splava-podnebne-spremembe/), N1 Slovenija, 19. 4. 2022
