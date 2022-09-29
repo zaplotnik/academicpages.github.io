@@ -57,6 +57,9 @@ NWP Data Assimilation
 Student/public presentations
 ======
 
+<i>August 25, 2022</i><br />
+[SLO] <b>Zaplotnik Ž.</b> Podnebne spremembe v Sloveniji. Slovenski regionalni razvojni sklad
+
 <i>June 9, 2022</i><br />
 [SLO] <b>Zaplotnik Ž.</b> Fizika podnebnih sprememb, Astronomski observatorij Golovec.
 

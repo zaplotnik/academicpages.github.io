@@ -13,6 +13,21 @@ author_profile: true
 {% endfor %}
 
 
+
+Odziv na trditve dr. Rafaela Mihaliča glede podnebnih sprememb [Kvarkadabra](https://kvarkadabra.net/2022/09/odziv-podnebne-spremembe/), [Univerza v Ljubljani](https://www.uni-lj.si/v_ospredju/2022091411494637/), 14. 9. 2022; 
+
+[Temperature po svetu zadnjih 17 let rastejo](https://www.ostro.si/si/razkrinkavanje/objave/temperature-po-svetu-zadnjih-17-let-rastejo), Oštro, 16. 9. 2022
+
+[Če podnebnih sprememb ne jemlješ resno, nisi domoljub](https://www.ostro.si/si/razkrinkavanje/objave/temperature-po-svetu-zadnjih-17-let-rastejo), N1 Slovenija, 13. 8. 2022
+
+[Razlika med zelenico in betonom: 20 stopinj Celzija](https://www.dnevnik.si/1042993784/slovenija/razlika-med-zelenico-in-betonom-20-stopinj-celzija), Dnevnik, 28. 7. 2022
+
+[Točka preloma ali točka brez povratka](https://val202.rtvslo.si/podkast/vroci-mikrofon/584/174886447), Val 202, 13. 7. 2022
+
+[Opozorila so bila zaman: težave so tukaj](https://cdn.24ur.com/novice/slovenija/opozorila-so-bila-zaman-tezave-so-tukaj.html), 24ur, 28. 6. 2022
+
+[Infrardeča kamera in meritve N1: Kako razbeljene so ljubljanske ulice](https://n1info.si/poglobljeno/infrardeca-kamera-in-meritve-n1-kako-razbeljene-so-ljubljanske-ulice/), N1 Slovenija, 26. 6. 2022
+
 [Kako bo EU nadzirala kitajske, ruske in druge izpuste ogljikovega dioksida](https://oe.finance.si/9000842/Kako-bo-EU-nadzirala-kitajske-ruske-in-druge-emisije-CO2), Finance, 7. 6. 2022
 
 [Zakaj bi upočasnitev podnebnih sprememb koristila slovenskemu gospodarstvu](https://oe.finance.si/9000106/Zakaj-bi-upocasnitev-podnebnih-sprememb-koristila-slovenskemu-gospodarstvu), Finance, 18. 5. 2022
