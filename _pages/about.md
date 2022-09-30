@@ -18,4 +18,4 @@ Attribution of vertical velocity Omega (Pa/s) to Rossby (left) and IG (right) mo
 
 Within this scope, I am also interested in the response of the large-scale atmospheric dynamics and tropical circulation to the warming climate. Figure below displays a response of atmospheric general circulation to Atlantic Multidecadal Oscillation (AMO)
 
-<center><img src="images/sketch_v2.png" width="360" />    <img src="images/sketch_v2.png" width="360" /></center><br />
+<center><img src="files/sketch_v2.png" width="1000" /></center><br />
