@@ -31,6 +31,7 @@ Submitted/In Review
 
 <b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2021: Flow-dependent wind extraction in strong-constraint 4D-Var. Under review in Quarterly Journal of Royal Meteorological Society
 
+Kosovelj, K., <b>Zaplotnik Ž.</b>, Žagar N.. Indices of Pacific Walker Circulation strength: trends, correlations and uncertainty. Submitted to JGR: Atmospheres
 
 Machine learning
 ======
