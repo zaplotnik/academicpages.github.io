@@ -12,9 +12,13 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+[Žiga Zaplotnik: Žalosti me, da ljudje ne ločijo podnebja od vremena](https://vecer.com/slovenija/intervju-ziga-zaplotnik-zalosti-me-da-ljudje-ne-locijo-podnebja-od-vremena-10325079), Večer, 16. 1. 2023
 
+[Namesto mraza in snega zvončki in trobentice. Kam je šla prava zima?](https://n1info.si/novice/slovenija/namesto-mraza-in-snega-zvoncki-in-trobentice-kam-je-sla-prava-zima/), N1 Slovenija, 6. 1. 2023
 
-Odziv na trditve dr. Rafaela Mihaliča glede podnebnih sprememb [Kvarkadabra](https://kvarkadabra.net/2022/09/odziv-podnebne-spremembe/), [Univerza v Ljubljani](https://www.uni-lj.si/v_ospredju/2022091411494637/), 14. 9. 2022; 
+[Za segrevanje Zemlje sta kriva človek in ogljikov dioksid](https://www.ostro.si/si/razkrinkavanje/objave/za-segrevanje-zemlje-sta-kriva-clovek-in-ogljikov-dioksid), Oštro, 3. 1. 2023
+
+Odziv na trditve dr. Rafaela Mihaliča glede podnebnih sprememb [Kvarkadabra](https://kvarkadabra.net/2022/09/odziv-podnebne-spremembe/), [Univerza v Ljubljani](https://www.uni-lj.si/v_ospredju/2022091411494637/), 14. 9. 2022;
 
 [Temperature po svetu zadnjih 17 let rastejo](https://www.ostro.si/si/razkrinkavanje/objave/temperature-po-svetu-zadnjih-17-let-rastejo), Oštro, 16. 9. 2022
 

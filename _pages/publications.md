@@ -31,7 +31,7 @@ Submitted/In Review
 
 <b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2021: Flow-dependent wind extraction in strong-constraint 4D-Var. Under review in Quarterly Journal of Royal Meteorological Society
 
-Kosovelj, K., <b>Zaplotnik Ž.</b>, Žagar N.. Indices of Pacific Walker Circulation strength: trends, correlations and uncertainty. Submitted to JGR: Atmospheres
+
 
 Machine learning
 ======
@@ -40,6 +40,8 @@ Skok G., Hoxha D., <b>Zaplotnik Ž.</b>, 2021. Forecasting the Daily Maximal and
 
 Atmospheric circulation/dynamics
 ======
+
+Kosovelj, K., <b>Zaplotnik Ž.</b>, 2023. Indices of Pacific Walker Circulation strength. <i>Atmosphere</i>, 14(2), 397 [Link](https://www.mdpi.com/2073-4433/14/2/397)
 
 Pikovnik M., <b>Zaplotnik Ž.</b>, Boljka L., Žagar N., 2022: Metrics of the Hadley circulation strength and associated circulation trends. <i>Weather Clim. Dynam.</i>, 3, 625–644 [Link](https://wcd.copernicus.org/articles/3/625/2022/)
 
