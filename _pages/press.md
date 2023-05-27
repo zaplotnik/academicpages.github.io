@@ -12,6 +12,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+[EN-LITE spletni tečaj: Energija, družba, okolje](https://www.youtube.com/watch?v=BfnbEX_supc&t=9s), 24. 2. 2023
+
 [Žiga Zaplotnik: Žalosti me, da ljudje ne ločijo podnebja od vremena](https://vecer.com/slovenija/intervju-ziga-zaplotnik-zalosti-me-da-ljudje-ne-locijo-podnebja-od-vremena-10325079), Večer, 16. 1. 2023
 
 [Namesto mraza in snega zvončki in trobentice. Kam je šla prava zima?](https://n1info.si/novice/slovenija/namesto-mraza-in-snega-zvoncki-in-trobentice-kam-je-sla-prava-zima/), N1 Slovenija, 6. 1. 2023

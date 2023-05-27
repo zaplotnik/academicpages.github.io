@@ -15,7 +15,9 @@ author_profile: true
 In preparation
 ======
 
-Žagar, N., <b>Zaplotnik Ž.</b>, Neduhal, V. Spectra of vertical motions in hydrostatic atmosphere decomposed into Rossby and inertia-gravity components
+
+
+<b>Zaplotnik Ž.</b> et al.: Ozone-wind tracing in ECMWF 4D-Var
 
 Kosovelj, K., et al. Multidecadal variability of the Walker circulation in 20th century reanalyses.
 
@@ -23,14 +25,11 @@ Kosovelj, K., et al. Multidecadal variability of the Walker circulation in 20th 
 
 <b>Zaplotnik Ž.</b>, Žagar N., 2020: Attribution of vertical velocity to Rossby modes, gravity modes and spatial scales.
 
-Horvat M., <b>Zaplotnik Ž.</b>, Žagar N., 2020: Universality of the Lorenz error growth function?
-
 
 Submitted/In Review
 ======
 
-<b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2021: Flow-dependent wind extraction in strong-constraint 4D-Var. Under review in Quarterly Journal of Royal Meteorological Society
-
+Žagar, N., Neduhal V., <b>Zaplotnik Ž.</b>, Tanaka H. L.: Decomposition of vertical velocity and its zonal wavenumber kinetic energy spectra in the hydrostatic atmosphere. Submitted to Journal of Atmospheric Sciences
 
 
 Machine learning
@@ -57,8 +56,10 @@ Computational epidemiology
 <b>Zaplotnik Ž.</b>, Gavric A., Medic L., 2020: Simulation of the COVID-19 pandemic on the social network
 of Slovenia: estimating the intrinsic forecast uncertainty. PLoS ONE 15(8): e0238090 [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238090) [arxiv](https://arxiv.org/abs/2005.13282)
 
-Inferring dynamics from tracers in 4D-Var
+Data assimilation - inferring dynamics from tracers in 4D-Var
 ======
+
+<b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2023: Flow-dependent wind extraction in strong-constraint 4D-Var. Accepted in Quarterly Journal of Royal Meteorological Society
 
 <b>Zaplotnik Ž.</b>, Žagar N., Benedetti A., Semane N., 2020: Inferring atmospheric dynamics from aerosol observation in 4D-Var. <i>Quart. J. Roy. Meteor. Soc.</i> 146(728), 4. [Link](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.3743)
 
