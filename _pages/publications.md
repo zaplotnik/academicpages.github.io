@@ -29,7 +29,7 @@ Kosovelj, K., et al. Multidecadal variability of the Walker circulation in 20th 
 Submitted/In Review
 ======
 
-Žagar, N., Neduhal V., <b>Zaplotnik Ž.</b>, Tanaka H. L.: Decomposition of vertical velocity and its zonal wavenumber kinetic energy spectra in the hydrostatic atmosphere. Submitted to Journal of Atmospheric Sciences
+Žagar, N., Neduhal V., <b>Zaplotnik Ž.</b>, Tanaka H. L.: Decomposition of vertical velocity and its zonal wavenumber kinetic energy spectra in the hydrostatic atmosphere. In review Journal of Atmospheric Sciences
 
 
 Machine learning
@@ -59,7 +59,7 @@ of Slovenia: estimating the intrinsic forecast uncertainty. PLoS ONE 15(8): e023
 Data assimilation - inferring dynamics from tracers in 4D-Var
 ======
 
-<b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2023: Flow-dependent wind extraction in strong-constraint 4D-Var. Accepted in Quarterly Journal of Royal Meteorological Society
+<b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2023: Flow-dependent wind extraction in strong-constraint 4D-Var. Quarterly Journal of Royal Meteorological Society 1-18 [Open](https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4497)
 
 <b>Zaplotnik Ž.</b>, Žagar N., Benedetti A., Semane N., 2020: Inferring atmospheric dynamics from aerosol observation in 4D-Var. <i>Quart. J. Roy. Meteor. Soc.</i> 146(728), 4. [Link](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.3743)
 

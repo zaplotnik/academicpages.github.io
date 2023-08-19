@@ -12,6 +12,18 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+[Ste prepričani, da ne živite na poplavnih območjih?](https://www.24ur.com/novice/slovenija/ste-prepricani-da-ne-zivite-na-poplavnih-obmocjih.html), 24ur, 12. 8. 2023
+
+[Kako se je po poplavah spremenila struga Kamniške Bistrice](https://n1info.si/novice/slovenija/kako-se-je-poplavah-spremenila-struga-kamniske-bistrice-foto/), N1 Slovenija, 11. 8. 2023
+
+[Zakaj se je odprlo nebo nad Slovenijo](https://www.caszazemljo.si/ekologija/zakaj-se-je-odprlo-nebo-nad-slovenijo.html), 24ur, 8. 8. 2023
+
+[To je po mnenju meteorologa glavni razlog za ekstremno vreme v Sloveniji](https://www.zurnal24.si/slovenija/to-je-po-mnenju-meteorologa-glavni-razlog-za-ekstremno-vreme-v-sloveniji-410183), Zurnal24, 7. 8. 2023
+
+[Bodo podnebne spremembe povzročile novo begunsko krizo?](https://www.24ur.com/novice/dejstva/nase-prezivetje-ne-more-biti-odvisno-od-tako-banalne-stvari-kot-je-politicna-volja.html), 24 ur, 14. 7. 2023
+
+[Proslava ob dnevu državnosti, 2023](https://365.rtvslo.si/arhiv/proslave-in-slavnostne-seje/174967687), 24. 6. 2023
+
 [EN-LITE spletni tečaj: Energija, družba, okolje](https://www.youtube.com/watch?v=BfnbEX_supc&t=9s), 24. 2. 2023
 
 [Žiga Zaplotnik: Žalosti me, da ljudje ne ločijo podnebja od vremena](https://vecer.com/slovenija/intervju-ziga-zaplotnik-zalosti-me-da-ljudje-ne-locijo-podnebja-od-vremena-10325079), Večer, 16. 1. 2023
