@@ -29,7 +29,9 @@ Kosovelj, K., et al. Multidecadal variability of the Walker circulation in 20th 
 Submitted/In Review
 ======
 
-Žagar, N., Neduhal V., <b>Zaplotnik Ž.</b>, Tanaka H. L.: Decomposition of vertical velocity and its zonal wavenumber kinetic energy spectra in the hydrostatic atmosphere. In review Journal of Atmospheric Sciences
+Melinc B., <b>Zaplotnik Ž.</b>: Neural-Network Data Assimilation using Variational Autoencoder. Submitted to QJRMS
+
+Žagar, N., Neduhal V., <b>Zaplotnik Ž.</b>, Tanaka H. L.: Decomposition of vertical velocity and its zonal wavenumber kinetic energy spectra in the hydrostatic atmosphere. In review at Journal of Atmospheric Sciences
 
 
 Machine learning
@@ -76,6 +78,8 @@ Atmospheric predictability
 
 Other
 ======
+
+[SLO] Šubic, A., Pikovnik, M., <b>Zaplotnik Ž.</b, 2023. Vlažni vročinski valovi v slovenski obalni regiji. Oddano v Štekam, FS.
 
 [SLO] Rakovec, J., <b>Ž. Zaplotnik</b>, Prosen, T. Nobelova nagrada za fiziko 2021. Proteus 84/9,10. Maj, junij 2022
 

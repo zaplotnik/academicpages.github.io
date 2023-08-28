@@ -12,6 +12,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+[Izbruh vulkana Hunga Tonga-Hunga Ha'apai ni povzročil avgustovskih poplav](https://www.ostro.si/si/razkrinkavanje/objave/zbruh-vulkana-hunga-tonga-hunga-haapai-ni-povzrocil-avgustovskih-poplav), Oštro, 22. 8. 2023
+
 [Ste prepričani, da ne živite na poplavnih območjih?](https://www.24ur.com/novice/slovenija/ste-prepricani-da-ne-zivite-na-poplavnih-obmocjih.html), 24ur, 12. 8. 2023
 
 [Kako se je po poplavah spremenila struga Kamniške Bistrice](https://n1info.si/novice/slovenija/kako-se-je-poplavah-spremenila-struga-kamniske-bistrice-foto/), N1 Slovenija, 11. 8. 2023
