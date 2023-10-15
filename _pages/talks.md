@@ -5,6 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+Melinc, B., <b>Zaplotnik Ž.</b>. [Emulating 3D-Var data assimilation using variational autoencoder](https://unilj-my.sharepoint.com/:b:/g/personal/ziga_zaplotnik_fmf_uni-lj_si1/EbGEziwrIy5LoJwGbwvqZmMBQtBHB8rnBidf7pk6wVGjUQ?e=9NV8Xq), International Symposium on Data Assimilation, Bologna, October 18, 2023.
+
+Kosovelj, K., <b>Zaplotnik Ž.</b>. [Pacific Walker circulation indices in ERA5 reanalysis](https://meetingorganizer.copernicus.org/EMS2023/session/47602), EMS, September 5, 2023 [TALK][PPT](https://unilj-my.sharepoint.com/:p:/g/personal/katarina_kosovelj_fmf_uni-lj_si/EfncEPPLMzdFhgR1t9khNNoBG9CzDdd1gYrvpUp5mvToKw?e=aH3Mxw)
+
+Pikovnik M., <b>Zaplotnik Ž.</b>, Boljka L. Is the recent strengthening of the Hadley circulation in ERA5 a response to climate change, a snapshot of multidecadal variability, or an artefact in the representation of latent heating? ECMWF Annual Seminar, September 4-8 2023
+
 <b>Zaplotnik Ž.</b>, Pikovnik M., Boljka L. [Recent Hadley cell strengthening: a trend or multidecadal variability?](https://meetingorganizer.copernicus.org/EGU22/EGU22-3866.html)​ EGU General Assembly 2022, May 25, 2022 [TALK]
 
 <b>Zaplotnik Ž.</b>. [Recent changes of the tropical Hadley circulation: climate-change-induced trend or multidecadal variability?](https://www.fmf.uni-lj.si/sl/obvestila/dogodek/434/nobel-2021-dr-ziga-zaplotnik-fmf-recent-changes-of-the-tropical-hadley-circulation-climate-change-induced-trend-or-multidecadal-variability/), Faculty of Mathematics and Physics, University of Ljubljana, January 3, 2022
@@ -56,6 +62,9 @@ NWP Data Assimilation
 
 Student/public presentations
 ======
+
+<i>October 10, 2023</i><br />
+[SLO] <b>Zaplotnik Ž.</b> Podnebne spremembe. [Chapter Zero Slovenia](https://www.chapterzeroslovenia.si/Novice/posledice-podnebnih-sprememb-so-tukaj-imuno-ni-niti-gospodarstvo/) [LINK](https://unilj-my.sharepoint.com/:p:/g/personal/ziga_zaplotnik_fmf_uni-lj_si1/EUyJaNFN2H5Bi2wgEe0_lUcBZYp_89CywKrfGtmLrOVJBA?e=CpZ0xk).
 
 <i>August 25, 2022</i><br />
 [SLO] <b>Zaplotnik Ž.</b> Podnebne spremembe v Sloveniji. Slovenski regionalni razvojni sklad

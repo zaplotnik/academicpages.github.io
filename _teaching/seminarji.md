@@ -8,8 +8,6 @@ date: 2020-07-04
 #location: "City, Country"
 ---
 
-# Možne seminarske teme:
-
 **Spremembe tropske cirkulacije v ogrevajoči se troposferi**
 
 **Zakaj se atmosfera ne ogreva enakomerno?**
@@ -30,7 +28,6 @@ https://egusphere.copernicus.org/preprints/2023/egusphere-2023-665/
 https://www.pnas.org/doi/10.1073/pnas.2112087118
 
 # Stare seminarske teme:
-
 
 [Napovedovanje vremena s konvolucijskimi nevronskimi mrežami](http://zaplotnik.github.io/files/Meteorološki_seminar_Uroš_Perkan.pdf) (Uroš Perkan, 2023, Meteorološki seminar)
 

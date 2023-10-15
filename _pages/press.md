@@ -12,6 +12,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+[Gospodarstvo bo moralo upoštevati podnebne spremembe](https://www.delo.si/novice/slovenija/gospodarstvo-bo-moralo-podnebne-spremembe-vzeti-v-obzir/), Delo, 10. 10. 2023
+
+[Konstitutivna seja Podnebnega sveta](https://www.gov.si/novice/2023-10-03-konstitutivna-seja-podnebnega-sveta/), 2. 10. 2023
+
+[Planet vremenskih ekstremov](https://365.rtvslo.si/arhiv/tednik/174984242), TVSLO 1 Tednik, 4. 9. 2023
+
 [Izbruh vulkana Hunga Tonga-Hunga Ha'apai ni povzročil avgustovskih poplav](https://www.ostro.si/si/razkrinkavanje/objave/zbruh-vulkana-hunga-tonga-hunga-haapai-ni-povzrocil-avgustovskih-poplav), Oštro, 22. 8. 2023
 
 [Ste prepričani, da ne živite na poplavnih območjih?](https://www.24ur.com/novice/slovenija/ste-prepricani-da-ne-zivite-na-poplavnih-obmocjih.html), 24ur, 12. 8. 2023

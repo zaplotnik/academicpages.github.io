@@ -15,9 +15,9 @@ author_profile: true
 In preparation
 ======
 
+<b>Zaplotnik Ž.</b>, Bonavita M., Holm E.: High-resolution ECMWF 4D-Var
 
-
-<b>Zaplotnik Ž.</b> et al.: Ozone-wind tracing in ECMWF 4D-Var
+<b>Zaplotnik Ž.</b>, Semane N., Bonavita M., Massart S.: Flow-dependent ozone-wind tracing in ECMWF 4D-Var
 
 Kosovelj, K., et al. Multidecadal variability of the Walker circulation in 20th century reanalyses.
 
@@ -29,9 +29,9 @@ Kosovelj, K., et al. Multidecadal variability of the Walker circulation in 20th 
 Submitted/In Review
 ======
 
-Melinc B., <b>Zaplotnik Ž.</b>: Neural-Network Data Assimilation using Variational Autoencoder. Submitted to QJRMS
+Melinc B., <b>Zaplotnik Ž.</b>: Neural-Network Data Assimilation using Variational Autoencoder. Submitted to QJRMS. [arxiv](https://arxiv.org/abs/2308.16073)
 
-Žagar, N., Neduhal V., <b>Zaplotnik Ž.</b>, Tanaka H. L.: Decomposition of vertical velocity and its zonal wavenumber kinetic energy spectra in the hydrostatic atmosphere. In review at Journal of Atmospheric Sciences
+
 
 
 Machine learning
@@ -41,6 +41,8 @@ Skok G., Hoxha D., <b>Zaplotnik Ž.</b>, 2021. Forecasting the Daily Maximal and
 
 Atmospheric circulation/dynamics
 ======
+
+Žagar, N., Neduhal V., Vasylkevych, S., <b>Zaplotnik Ž.</b>, Tanaka H. L.: Decomposition of vertical velocity and its zonal wavenumber kinetic energy spectra in the hydrostatic atmosphere. Accepted in Journal of Atmospheric Sciences [Link](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-23-0090.1/JAS-D-23-0090.1.xml)
 
 Kosovelj, K., <b>Zaplotnik Ž.</b>, 2023. Indices of Pacific Walker Circulation strength. <i>Atmosphere</i>, 14(2), 397 [Link](https://www.mdpi.com/2073-4433/14/2/397)
 
@@ -76,12 +78,21 @@ Atmospheric predictability
 
 Žagar N., Horvat M., <b>Zaplotnik Ž.</b>, Magnusson L., 2017: Scale-dependent estimates of the growth of forecast uncertainties in a global prediction system. <i>Tellus A: Dynamic Meteorology and Oceanography</i> 69(1). [Open](https://www.tandfonline.com/doi/full/10.1080/16000870.2017.1287492)
 
+
+Master's theses
+======
+
+[SLO] Perkan Uroš, 2023: Napovedovanje vremena s konvolucijskimi nevronskimi mrežami. [Open](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=150234)
+
+[SLO] Pikovnik Matic, 2021: Analiza sprememb intenzivnosti Hadleyjeve cirkulacije. [Open](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=124829&lang=slv)
+
+
 Other
 ======
 
 [SLO] Šubic, A., Pikovnik, M., <b>Zaplotnik Ž.</b, 2023. Vlažni vročinski valovi v slovenski obalni regiji. Oddano v Štekam, FS.
 
-[SLO] Rakovec, J., <b>Ž. Zaplotnik</b>, Prosen, T. Nobelova nagrada za fiziko 2021. Proteus 84/9,10. Maj, junij 2022
+[SLO] Rakovec, J., <b>Ž. Zaplotnik</b>, Prosen, T. [Nobelova nagrada za fiziko 2021.](https://www.dlib.si/details/URN:NBN:SI:DOC-S0IBKVW3/?query=%27contributor%3d-ok-%27&pageSize=25&frights=InC&sortDir=DESC&sort=date&fyear=2022&fpublisher=&ftype=znanstveno+%c4%8dasopisje&frelation=Proteus&flocation=Prirodoslovno+dru%c5%a1tvo+Slovenije&flanguage=slv&fUDC=Fizika) Proteus 84/9,10. Maj, junij 2022.
 
 [SLO] Slameršak, A., <b>Ž. Zaplotnik</b>, L. Boljka, N. Črnivec,  2020: <a href="https://drive.google.com/file/d/1jB1u5CN3qE75PLRgBAbi-LucCHVcn0L8/view?usp=sharing">Suggestions for a political programme for a "green" transition (towards sustainability) and a minimisation of climate change impacts.</a> 4 pp.
 
