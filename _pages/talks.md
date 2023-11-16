@@ -9,7 +9,7 @@ Melinc, B., <b>Zaplotnik Ž.</b>. [Emulating 3D-Var data assimilation using vari
 
 Kosovelj, K., <b>Zaplotnik Ž.</b>. [Pacific Walker circulation indices in ERA5 reanalysis](https://meetingorganizer.copernicus.org/EMS2023/session/47602), EMS, September 5, 2023 [TALK][PPT](https://unilj-my.sharepoint.com/:p:/g/personal/katarina_kosovelj_fmf_uni-lj_si/EfncEPPLMzdFhgR1t9khNNoBG9CzDdd1gYrvpUp5mvToKw?e=aH3Mxw)
 
-Pikovnik M., <b>Zaplotnik Ž.</b>, Boljka L. Is the recent strengthening of the Hadley circulation in ERA5 a response to climate change, a snapshot of multidecadal variability, or an artefact in the representation of latent heating? ECMWF Annual Seminar, September 4-8 2023
+Pikovnik M., <b>Zaplotnik Ž.</b>, Boljka L. Is the recent strengthening of the Hadley circulation in ERA5 a response to climate change, a snapshot of multidecadal variability, or an artefact in the representation of latent heating? ECMWF Annual Seminar, September 4-8 2023. [POSTER](https://unilj-my.sharepoint.com/:b:/g/personal/ziga_zaplotnik_fmf_uni-lj_si1/EaSgSngn4TZKlRpYh8fEQ98BMwDQtOz1rVnRYcSNqGTTUw?e=shM2wr)
 
 <b>Zaplotnik Ž.</b>, Pikovnik M., Boljka L. [Recent Hadley cell strengthening: a trend or multidecadal variability?](https://meetingorganizer.copernicus.org/EGU22/EGU22-3866.html)​ EGU General Assembly 2022, May 25, 2022 [TALK]
 
@@ -62,6 +62,9 @@ NWP Data Assimilation
 
 Student/public presentations
 ======
+
+<i>November 8, 2023</i><br />
+[SLO] <b>Zaplotnik Ž.</b> Prognoze podnebnih sprememb, s poudarkom na pričakovanih ekstremnih dogodkih, ki vplivajo na objekte. [Lesena gradnja v luči odpornosti proti ujmam](https://si24.news/novice/lesena-gradnja-v-luci-odpornosti-proti-ujmam) [LINK](https://unilj-my.sharepoint.com/:p:/g/personal/ziga_zaplotnik_fmf_uni-lj_si1/EUsamqZwxvtMv95P4Gam9NsBXtJtyOIYBruO0rCvDO87IQ?e=9C2SZE)
 
 <i>October 10, 2023</i><br />
 [SLO] <b>Zaplotnik Ž.</b> Podnebne spremembe. [Chapter Zero Slovenia](https://www.chapterzeroslovenia.si/Novice/posledice-podnebnih-sprememb-so-tukaj-imuno-ni-niti-gospodarstvo/) [LINK](https://unilj-my.sharepoint.com/:p:/g/personal/ziga_zaplotnik_fmf_uni-lj_si1/EUyJaNFN2H5Bi2wgEe0_lUcBZYp_89CywKrfGtmLrOVJBA?e=CpZ0xk).

@@ -31,6 +31,7 @@ Submitted/In Review
 
 Melinc B., <b>Zaplotnik Ž.</b>: Neural-Network Data Assimilation using Variational Autoencoder. Submitted to QJRMS. [arxiv](https://arxiv.org/abs/2308.16073)
 
+Neduhal V., Žagar N., Lunkeit F., Polichtchouk I., Zaplotnik Ž. Decomposition of the horizontal wind divergence associated with the Rossby, inertia-gravity, mixed Rossby-gravity and Kelvin waves on the sphere. Submitted to JGR: Atmospheres.
 
 
 
@@ -42,7 +43,7 @@ Skok G., Hoxha D., <b>Zaplotnik Ž.</b>, 2021. Forecasting the Daily Maximal and
 Atmospheric circulation/dynamics
 ======
 
-Žagar, N., Neduhal V., Vasylkevych, S., <b>Zaplotnik Ž.</b>, Tanaka H. L.: Decomposition of vertical velocity and its zonal wavenumber kinetic energy spectra in the hydrostatic atmosphere. Accepted in Journal of Atmospheric Sciences [Link](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-23-0090.1/JAS-D-23-0090.1.xml)
+Žagar, N., Neduhal V., Vasylkevych, S., <b>Zaplotnik Ž.</b>, Tanaka H. L., 2023. Decomposition of vertical velocity and its zonal wavenumber kinetic energy spectra in the hydrostatic atmosphere. Accepted in Journal of Atmospheric Sciences [Link](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-23-0090.1/JAS-D-23-0090.1.xml)
 
 Kosovelj, K., <b>Zaplotnik Ž.</b>, 2023. Indices of Pacific Walker Circulation strength. <i>Atmosphere</i>, 14(2), 397 [Link](https://www.mdpi.com/2073-4433/14/2/397)
 
@@ -90,7 +91,7 @@ Master's theses
 Other
 ======
 
-[SLO] Šubic, A., Pikovnik, M., <b>Zaplotnik Ž.</b, 2023. Vlažni vročinski valovi v slovenski obalni regiji. Oddano v Štekam, FS.
+[SLO] Šubic, A., Pikovnik, M., <b>Zaplotnik Ž.</b, 2023. Vlažni vročinski valovi v slovenski obalni regiji. Objavljeno v Štekam, FS.
 
 [SLO] Rakovec, J., <b>Ž. Zaplotnik</b>, Prosen, T. [Nobelova nagrada za fiziko 2021.](https://www.dlib.si/details/URN:NBN:SI:DOC-S0IBKVW3/?query=%27contributor%3d-ok-%27&pageSize=25&frights=InC&sortDir=DESC&sort=date&fyear=2022&fpublisher=&ftype=znanstveno+%c4%8dasopisje&frelation=Proteus&flocation=Prirodoslovno+dru%c5%a1tvo+Slovenije&flanguage=slv&fUDC=Fizika) Proteus 84/9,10. Maj, junij 2022.
 
@@ -122,5 +123,7 @@ Bajc, J., <b>Zaplotnik Ž.</b>, Živčič M., Čarman M., 2012: "Izračun lokaln
 
 Reviews
 ======
+
+Reviewer for Quarterly Journal of Royal Meteorological Society, Nature Communications, EGU Atmospheric Measurement Techniques
 
 [Publons](https://publons.com/researcher/3135134/ziga-zaplotnik/)

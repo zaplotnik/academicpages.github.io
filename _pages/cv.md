@@ -9,32 +9,49 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Work
 ======
+
+<i>2022-ongoing</i><br />
+<b>Research Scientist</b>, ECMWF<br />
+<i>Topic:</i> High-Resolution Earth-System Data Assimilation for Destination Earth
+
 <i>March-April 2022</i><br />
-<b>Postdoc</b>, ECMWF<br />
-<i>Topic:</i> Wind tracing
+<b>Visiting Scientist</b>, ECMWF<br />
+<i>Topic:</i> Ozone-wind tracing
+
+<i>2021-2022</i><br />
+<b>Senior Academic Lecturer</b>, University of Ljubljana, Faculty of Mathemtics and Physics<br />
+<i>Subjects:</i> Weather Analysis and Forecasting, Dynamic meteorology, Meteorological Observations and Instrumentation
 
 <i>2018-2021</i><br />
-<b>Postdoc</b>, University of Ljubljana<br />
+<b>Postdoc</b>, University of Ljubljana, Faculty of Mathemtics and Physics<br />
 <i>Topic:</i> studying the contribution of different circulation types to vertical velocity Omega and momentum fluxes
 
-<i>May-Jun 2016</i><br />
+<i>May 2016 - June 2016</i><br />
 <b>Visiting researcher</b>, SMHI<br />
 <i>Advisor</i>: dr. Nils Gustafsson
 
+
+Duties
+======
+<i>2023-ongoing</i><br />
+
+Education
+======
+
 <i>2014-2018</i><br />
-<b>Ph.D in Physics, Meteorology</b>, University of Ljubljana<br />
+<b>Ph.D in Physics, Meteorology</b>, University of Ljubljana, Faculty of Mathemtics and Physics<br />
 <i>Supervisor:</i> Prof. Nedjeljka Žagar<br />
 <i>Topic:</i> Coupling of the aerosols, moisture and winds in 4D-Var data assimilation
 
 <i>2011-2014</i><br />
-<b>Master of Science in Computational Physics</b>, University of Ljubljana<br />
+<b>Master of Science in Computational Physics</b>, University of Ljubljana, Faculty of Mathemtics and Physics<br />
 <i>Supervisor:</i> Prof. Simon Širca<br />
 <i>Thesis Topic:</i> Independent Component Analysis in Physics
 
 <i>2008-2011</i><br />
-<b>Bachelor of Science in Meteorology and Geophysics</b>, University of Ljubljana<br />
+<b>Bachelor of Science in Meteorology and Geophysics</b>, University of Ljubljana, Faculty of Mathemtics and Physics<br />
 
 Other work experiences
 ======
@@ -69,5 +86,5 @@ Awards
 
 Personal
 ======
-* Partner to Jerca, father to Brina (born 2015) and Izabela (born 2017)
+* Partner to Jerca, father to Brina (born 2015), Izabela (born 2017), Laura and Julija (born 2023)
 * volleyball, running, hiking, windsurfing (lacking time)

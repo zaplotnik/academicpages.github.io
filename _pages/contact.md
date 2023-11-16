@@ -4,7 +4,7 @@ title: "Contact"
 excerpt: "Contact me"
 author_profile: true
 ---
-E-mail: ziga [dot] zaplotnik [at] fmf.uni-lj.si
+E-mail: ziga [dot] zaplotnik [at] ecmwf.int and ziga [dot] zaplotnik [at] fmf.uni-lj.si
 
 [Student's pages](https://fiz.fmf.uni-lj.si/~zaplotnikz/)
 
