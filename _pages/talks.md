@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+Melinc, B., <b>Zaplotnik Ž.</b> [3D-Var Data Assimilation in the Latent Space of a Variational Autoencoder](https://research.reading.ac.uk/met-darc/news-and-events/darc-seminar-series/), DARC Seminar, University of Reading, March 20, 2024
+
+<b>Zaplotnik Ž.</b>, Bonavita M., Holm E. [Towards higher resolution data assimilation in ECMWF IFS.](https://www.youtube.com/watch?v=xEYQvwImCUY) International Symposium on Data Assimilation - Online: Advancements in Variational Data Assimilation, February 2, 2024
+
 Melinc, B., <b>Zaplotnik Ž.</b>. [Emulating 3D-Var data assimilation using variational autoencoder](https://unilj-my.sharepoint.com/:b:/g/personal/ziga_zaplotnik_fmf_uni-lj_si1/EbGEziwrIy5LoJwGbwvqZmMBQtBHB8rnBidf7pk6wVGjUQ?e=9NV8Xq), International Symposium on Data Assimilation, Bologna, October 18, 2023.
 
 Kosovelj, K., <b>Zaplotnik Ž.</b>. [Pacific Walker circulation indices in ERA5 reanalysis](https://meetingorganizer.copernicus.org/EMS2023/session/47602), EMS, September 5, 2023 [TALK][PPT](https://unilj-my.sharepoint.com/:p:/g/personal/katarina_kosovelj_fmf_uni-lj_si/EfncEPPLMzdFhgR1t9khNNoBG9CzDdd1gYrvpUp5mvToKw?e=aH3Mxw)

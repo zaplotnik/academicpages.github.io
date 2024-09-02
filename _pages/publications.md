@@ -15,7 +15,7 @@ author_profile: true
 In preparation
 ======
 
-<b>Zaplotnik Ž.</b>, Bonavita M., Holm E.: High-resolution ECMWF 4D-Var
+<b>Zaplotnik Ž.</b>, Bonavita M., Holm E.: High-resolution 4D-Var at ECMWF
 
 <b>Zaplotnik Ž.</b>, Semane N., Bonavita M., Massart S.: Flow-dependent ozone-wind tracing in ECMWF 4D-Var
 
@@ -29,10 +29,6 @@ Kosovelj, K., et al. Multidecadal variability of the Walker circulation in 20th 
 Submitted/In Review
 ======
 
-Melinc B., <b>Zaplotnik Ž.</b>: Neural-Network Data Assimilation using Variational Autoencoder. Submitted to QJRMS. [arxiv](https://arxiv.org/abs/2308.16073)
-
-Neduhal V., Žagar N., Lunkeit F., Polichtchouk I., Zaplotnik Ž. Decomposition of the horizontal wind divergence associated with the Rossby, inertia-gravity, mixed Rossby-gravity and Kelvin waves on the sphere. Submitted to JGR: Atmospheres.
-
 
 
 Machine learning
@@ -42,6 +38,8 @@ Skok G., Hoxha D., <b>Zaplotnik Ž.</b>, 2021. Forecasting the Daily Maximal and
 
 Atmospheric circulation/dynamics
 ======
+
+Neduhal V., Žagar N., Lunkeit F., Polichtchouk I.,  <b>Zaplotnik Ž.</b>, Decomposition of the horizontal wind divergence associated with the Rossby, inertia-gravity, mixed Rossby-gravity and Kelvin waves on the sphere. Accpted in JGR: Atmospheres.
 
 Žagar, N., Neduhal V., Vasylkevych, S., <b>Zaplotnik Ž.</b>, Tanaka H. L., 2023. Decomposition of vertical velocity and its zonal wavenumber kinetic energy spectra in the hydrostatic atmosphere. Accepted in Journal of Atmospheric Sciences [Link](https://journals.ametsoc.org/view/journals/atsc/aop/JAS-D-23-0090.1/JAS-D-23-0090.1.xml)
 
@@ -63,6 +61,8 @@ of Slovenia: estimating the intrinsic forecast uncertainty. PLoS ONE 15(8): e023
 
 Data assimilation - inferring dynamics from tracers in 4D-Var
 ======
+
+Melinc B., <b>Zaplotnik Ž.</b>: Neural-Network Data Assimilation using Variational Autoencoder. Accepted to QJRMS. [arxiv](https://arxiv.org/abs/2308.16073)
 
 <b>Zaplotnik Ž.</b>, Žagar N., Semane N., 2023: Flow-dependent wind extraction in strong-constraint 4D-Var. Quarterly Journal of Royal Meteorological Society 1-18 [Open](https://rmets.onlinelibrary.wiley.com/doi/10.1002/qj.4497)
 

@@ -12,6 +12,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+[Geoinženiring: nevarno igranje s podnebjem ali nujna preživetvena strategija](https://365.rtvslo.si/arhiv/intelekta/175034347), Intelekta, Radio Slovenija, 2. 4. 2024
+
+[Dvig povprečne temperature za sedem stopinj bi pomenil katastrofo](https://www.delo.si/novice/znanoteh/dvig-povprecne-temperature-za-sedem-stopinj-bi-pomenil-katastrofo/), Delo, 14. 3. 2024
+
+[Klimatolog napovedal, kakšno bo letošnje leto](https://n1info.si/novice/slovenija/klimatolog-napovedal-kaksno-bo-letosnje-leto/), N1 Slovenija, 1. 1. 2024
+
 [Gospodarstvo bo moralo upoštevati podnebne spremembe](https://www.delo.si/novice/slovenija/gospodarstvo-bo-moralo-podnebne-spremembe-vzeti-v-obzir/), Delo, 10. 10. 2023
 
 [Konstitutivna seja Podnebnega sveta](https://www.gov.si/novice/2023-10-03-konstitutivna-seja-podnebnega-sveta/), 2. 10. 2023
